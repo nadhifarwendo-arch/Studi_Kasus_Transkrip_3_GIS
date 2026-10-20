@@ -1,4 +1,4 @@
-# Studi Kasus Transkrip 3 — GIS untuk Pengelolaan Aset
+# Studi Kasus 3 — GIS untuk Pengelolaan Aset
 
 ## Ringkasan
 Paket ini berangkat dari **Transkrip 3**, yang membahas GIS dan penerapannya pada pekerjaan/pengelolaan aset. Studi kasus latihan ini menggambarkan tim yang perlu mendata aset, melihat jumlah aset menurut kategori dan status, serta menyiapkan data koordinat agar dapat digunakan dalam sistem geospasial.
