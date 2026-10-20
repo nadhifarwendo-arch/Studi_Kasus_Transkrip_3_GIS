@@ -1,0 +1,2487 @@
+transkrip 3
+3.28
+itu
+5.17
+Ee izin Pak Widi, mungkin boleh kita mulai
+5.23
+ya. Ee baik untuk kedengaran ya suara saya ee terdengar Pak. Baik untuk teman-teman
+5.31
+yang masih belum oncam diharapkan oncam lalu e menggunakan
+5.40
+ee background yang telah dibuat e untuk Muhammad Afif Dikov mohon share
+5.47
+screen-nya jangan dibuka. Ee mungkin bisa saya buka. Asalamualaikum warahmatullahi
+5.53
+wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh.
+5.58
+Selamat pagi dan salam sejahtera bagi kita semua. Ee yang terhormat Ibu Ir. Kurnia Angriani, Stmt, PhD selaku
+6.05
+koordinator program studi informatika. Yang kami hormati dan telah bersama kita
+6.12
+Bapak Widi Primadepa selaku narasumber pada kegiatan Informatik Practitioner
+6.17
+Lecture Series 2026 pada hari ini. Serta Bapak, Ibu dosen dan teman-teman mahasiswa yang berbahagia. Pertama-tama
+6.25
+marilah kita panjatkan puji dan syukur atas kehadirat Allah Subhanahu wa taala karena atas rahmat dan karunia-Nya kita
+6.31
+dapat berkumpul pada pagi hari ini untuk eh mengikuti kegiatan Informatik
+6.37
+Praktitional Lecture Series 2026. Eh sebelumnya perkenalkan saya Akbar Akornata yang akan bertugas sebagai
+6.43
+moderator untuk memandu jalannya acara dari awal hingga akhir pada saat ini.
+6.49
+Eh, pada kesempatan ini eh yang saya sebutkan tadi, kita akan mengikuti kegiatan informatik practitioner lecture
+6.56
+series 2026 dengan tema yang akan disampaikan oleh Bapak Widi Primadepa
+7.01
+dengan tema karir and competition in Industrial Era with GIS atau peluang
+7.07
+karir dan persaingan di era industri dengan pemanfaatan sistem informasi geografis atau yang biasa kita kenal
+7.13
+yaitu GIS. Ee tema ini ee sangat relevan terutama bagi kita mahasiswa informatika
+7.19
+yang mungkin perlu mempersiapkan diri menghadapi perkembangan di teknologi dan kebutuhan dunia kerja nantinya. Ee
+7.26
+narasumber kita hari ini merupakan alumni informatika Universitas Bengkulu yang telah memiliki pengalaman
+7.31
+profesional di bidang GIS dan kini berkait baru atau New Zealand. tentunya
+7.36
+kesempatan ee saat ini dapat menjadi sarana bagi kita untuk belajar langsung
+7.43
+dari pengalaman alumni kita mulai dari perjalanan karir hingga kompetensi yang dibutuhkan untuk bersaing di dunia
+7.49
+industri. Ee untuk mengawali kegiatan pada hari
+7.55
+ini mungkin kita akan mendengarkan sambutan dari koordinator program studi informatika yaitu Ibu Ir. Kurnia
+8.01
+Angliani, Stmt, PhD. kepada Ibu waktu dan tempat ee disilakan.
+8.14
+Ee baik, terima kasih Akbar selaku moderator. Asalamualaikum warahmatullahi
+8.19
+wabarakatuh. Selamat pagi, Deva. Kalau kita manggilnya Deva ya.
+8.26
+Apa kabar? Sehat di sana?
+8.32
+Oh iya. Oke ya. Apa sor? Apa kabar Mania? Sehat.
+8.39
+Sehat alhamdulillah. Oke. Sori pakai jaket lagi dingin. [tertawa]
+8.45
+Iya lagi di sana. Oke. Baru masuk musim semi.
+8.52
+Ee masih di minggu lalu tuh panas tapi ini sudah
+8.57
+dingin lagi ya. Lanjut-lanjut. Sor. [tertawa] Oke ya. Saya buka ya. Asalamualaikum
+9.04
+warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi
+9.10
+wabarakatuh. Wabarakatuh. Dan salam sejahtera bagi kita semua. Ee yang kami hormati Bapak
+9.17
+Widi Prima eh selaku
+9.22
+aset manajemen di ee Giz Analis di City Care Property Selandia Baru selaku
+9.30
+narasumber pada kegiatan hari ini. Yang kami hormati Bapak Ibu dosen yang
+9.35
+mungkin hadir ada Ibu Ari saya lihat ada Ibu Tiara dan mungkin juga ee Bapak Ibu
+9.41
+dosen yang lain. Kemudian panitia penyelenggara dan seluruh mahasiswa dan
+9.46
+peserta webinar yang berbahagia. Pertama-tama marilah kita panjatkan puji
+9.53
+syukur kehadirat Allah Subhanahu wa taala karena atas rahmat dan karunia-Nya
+9.58
+kita dapat kembali bertemu di kegiatan Informatics Practitioner Lecture Series.
+10.05
+Jadi ini eh acara webinar yang punya tema besar Connecting Academic Knowledge
+10.12
+with Industry and Global Technology. Ee pada kesempatan ini saya selaku
+10.20
+koordinator prodi mengucapkan terima kasih yang sebesar-besarnya kepada Bapak Widi karena sudah berkenan
+10.27
+menjadi narasumber pada kegiatan kami hari ini. Semoga ee dengan pengalamannya
+10.34
+yang luar biasa bisa memotivasi adik-adik lah ya kalau kita katakan ini adik-adik kita untuk punya mimpi yang
+10.42
+besar, untuk punya mimpi go internasional karena kita sudah
+10.48
+membuktikan banyak alumni kita yang sukses di ee level internasional. Jadi
+10.54
+kita boleh berpunya mimpi yang besar gitu. Kemudian ee harapan kami juga ee
+11.02
+ilmu atau materi yang disampaikan oleh Bapak Widi tadi membuka wawasan
+11.09
+adik-adik kemudian ee memberi dampak yang positif juga baik bagi informatika
+11.15
+maupun bagi Bapak karir Pak Widi juga di sana. Ee kemudian ee saya juga
+11.21
+mengucapkan kepada seluruh mahasiswa untuk memanfaatkan kesempatan ini sebaik-baiknya. Jangan hanya karena
+11.28
+diwajibkan oleh Ibu Ari, Ibu Kurnia, dan Ibu Tiara e hanya ee datang diputar
+11.36
+Zoom-nya kemudian ditinggal. Itu sangat rugi ya karena kesempatan ini tidak akan
+11.42
+kalian dapatkan di tempat lain secara gratis. ilmu yang disampaikan oleh Bapak Widi ini tidak mudah didapatkan di
+11.50
+manaun gitu. Jadi, mohon dimanfaatkan kesempatan ini sebesarbesarnya. Jangan
+11.56
+ragu-ragu untuk bertanya dan menggali pengalaman langsung dari Pak Widi karena
+12.02
+ini adalah kakak tingkat kalian, senior kalian di Informatika. Jadi, akhir kata itu yang bisa saya
+12.09
+sampaikan. Selamat mengikuti kegiatan webinar. Semoga kegiatan ini memberikan
+12.15
+manfaat bagi kita semua. Itu yang bisa saya sampaikan. Terima kasih. Asalamualaikum warahmatullahi
+12.21
+wabarakatuh. Waalaikumsalam warahmatullahi wabarakatuh wabarakatuh. Waalaikumsalam warahmatullahi
+12.27
+wabarakatuh. Ee terima kasih kepada Ibu Ir. Kur Angriani, Stmt, PSD atas
+12.32
+sambutan dan arahan yang telah disampaikan. Semoga dalam kegiatan ini kita dapat ee memberikan manfaat bagi
+12.38
+seluruh peserta khususnya dalam memperluaskan wawasan ee mengenai perkembangan teknologi GIS dan peluang
+12.44
+karir di dunia industri. Oke, selanjutnya kita akan memasuki acara inti yaitu pemaparan materi oleh
+12.51
+narasumber kita pada hari ini. Ee sebelum itu izinkan saya memperkenalkan narasumber kita pada hari ini.
+12.57
+Narasumber kita adalah Bapak Widi Primadepa atau Abang Widi Primadepa eh
+13.03
+seorang profesional di bidang geografic information system atau Giz sekaligus
+13.08
+alumni program studi informatika Universitas Mengkulu yang telah menyelesaikan pendidikan sarjana pada
+13.14
+tahun 2013. Beliau memiliki pengalaman profesional yang cukup panjang di dalam
+13.19
+bidang GIS, e, pemetaan, analisis spasial, serta pengolahan data geospasial. Dalam perjalanan karirnya,
+13.25
+beliau pernah bekerja sebagai konsultan GIS dan terlibat dalam berbagai proyek termasuk pemuetan dan analisis spasial
+13.31
+untuk mendukung studi lingkungan, perencanaan, pembangunan, pertamangan, dan ee pemangkit listrik tenaga air. Ee
+13.38
+mungkin nanti untuk teman-teman yang mau bertanya boleh bertanya tentang mungkin
+13.43
+seputaran dengan tema yang saya sebutkan tadi. Dan saat ini beliau bekerja sebagai aset management analyst di City
+13.50
+Care Property Chris Church di Selandia Baru. Dalam peran tersebut beliau
+13.57
+menangani dukungan GIS untuk pengelolaan fasilitas dan riset termasuk pemeliharaan data spasial, pemetaan
+14.02
+analisis spasial serta pengolahan data untuk mendukung kebutuhan operasional dan proyek.
+14.08
+Selain itu, beliau memiliki kompetensi dalam penggunaan perangkat lunak seperti artg, keys, dan global maper serta
+14.15
+pengalaman dalam pemetaan drone dan remote handsing. Perjalanan karir beliau tentu menjadi contoh menarik bagi kita
+14.21
+khususnya mahasiswa informatika Universitas Bengkulu bahwa kompetensi yang kita pelajari selama perkuliahan itu dapat dikembangkan menjadi galian
+14.29
+profesional dan membuka peluang berkarir hingga ke tingkat internasional. Oleh karena itu, melalui kegiatan ini kita
+14.35
+diharapkan dapat belajar dari pengalaman langsung seorang alumni kita dalam menghadapi tantangan dan persaingan di
+14.41
+dunia industri. Adapun materi yang akan beliau sampaikan berjudul Career and
+14.46
+Competition in Industrial Era. Baik, sebelum kita memasuki sesi
+14.52
+pemaparan materi, mungkin terlebih dahulu kita akan melaksanakan sesi dokumentasi bersama Abang. Jadi untuk
+15.00
+kepada Ibu Koordinator Program Studi ee Bapak Widi selaku narasumber, Bapak, Ibu
+15.06
+dosen, serta teman-teman mahasiswa yang hadir melalui ZIM kami persilakan untuk ee oncam atau membuka kameranya
+15.12
+masing-masing. Mungkin nanti ada di
+15.18
+ee 9 slide. Mohon ee kameranya diaktifkan. Kita akan
+15.23
+melakukan ee foto bersama.
+15.29
+Baik, untuk ee slide pertama
+15.34
+senyum. 1 2 3.
+15.40
+Baik, untuk selanjutnya di slide 2.
+15.47
+Slide 3. 1 2 3.
+15.54
+Baik, slide 4.
+16.00
+Selanjutnya di slide 5.
+16.07
+Slide 6 1 2 3
+16.12
+ee slide 7 1 2 3
+16.20
+Slide 8 1 2 3. ee untuk slide terakhir. 1 2 3.
+16.38
+Ee baik, itu tadi sesi dokumentasi kita. Selanjutnya kita akan memasuki sesi inti
+16.44
+yaitu pemaparan materi oleh narasumber kita Bapak Widi Primadepak. E kepada
+16.49
+Bapak Widi Prim Dep. Waktu dan tempat kami persilakan untuk menyampaikan
+16.55
+materi. Persilakan Bapak. Terima kasih, Akbar selaku moderator. Ee
+17.02
+asalamualaikum warahmatullahi wabarakatuh. Ee perkenalkan nama saya
+17.08
+Widi Primadeva. Saya alumni eh ya tadi sudah perkenalan dari akbar. Saya alumni Universitas
+17.17
+Bengkulu angkat Teknik Informatika angkatan 2008.
+17.23
+Em, Ibu Kurnia Anggraini Angriani ee
+17.29
+merupakan kakak tingkat saya. Saya cukup dekat dengan beliau
+17.36
+selama masa perkuliahan. Ee Ibu Ari Fatriia juga senior saya. ee
+17.44
+dosen saya ee selama saya berkuliah di Teknik Informatika Universitas Bengkulu.
+17.52
+Ee sekarang saya berdomisili di Christandia
+17.59
+baru. Eh saya bekerja untuk City Care Property bagian dari City Care Group
+18.07
+yang merupakan perusahaan milik City eh Croter City Council CCC.
+18.16
+Jadi di sini sistem ee cara pemerintah bekerja itu sangat
+18.23
+berbeda dengan di Indonesia. Kalau di Indonesia misalnya kita itu
+18.28
+punya Dinas Pekerjaan Umum, Dinas Tata Kota,
+18.35
+berbagai macam dinas gitu yang menangani masing-masing bidang ee untuk
+18.41
+ee kepentingan masyarakat. Tapi di sini em untuk efisiensi anggaran dan
+18.49
+lain-lain mereka biasanya membuat ee perusahaan daerah kalau di Indonesia
+18.56
+itu namanya BMD lah ya, perusahaan sebagai pengganti dari dinas-dinas
+19.01
+tersebut. Jadi kebetulan ee bagian saya ini bekerja dalam mengelola
+19.09
+dan mage eh aset-aset milik Ret City Council. Jadi saya sendiri di bagian
+19.16
+aset managemen eh spesifiknya sebagai JS anal.
+19.22
+Jadi saya ee tugas saya di sini adalah em
+19.29
+yang pertama mengumpulkan ee melakukan data capture kemudian melakukan post processing yang
+19.36
+kemudian akan disubmit menjadi data ee city council
+19.45
+ya. Oke, kalau begitu saya mulai presentasinya.
+19.51
+Ee ee bisa dilihat. Oke,
+19.58
+bisa, Pak. Em. Oke. Kebaca enggak? Kebaca enggak? Kebaca, Pak.
+20.05
+Oke. Ee jadi tema saya ya tema besarnya itu
+20.11
+karir ee dan persaingan di bidang JS.
+20.17
+Eh, tapi tema spesifik di sini saya beri judul industry perspective how Bachelor
+20.24
+of IT leads to career in JS. Eh, jadi kita itu punya benefit sebagai
+20.34
+orang IT, sebagai orang teknik informatika. Karena kita one step ahead dari mereka yang pure JS, dari mereka
+20.42
+yang memulai S1-nya benar-benar dari sistem informasi
+20.47
+geografis. tentunya mereka juga belajar ee pemrograman menggunakan Python ee
+20.54
+kemudian pengolahan databas dan lain-lain. Tetapi dalam melakukan pengembangan
+21.00
+mereka tuh lebih ke user ketimbang
+21.06
+developer. Jadi kita punya one step ahead sebagai bisa menjadi eh
+21.12
+JS developer itu sendiri. Tapi untuk pekerjaan saya yang sekarang
+21.19
+mostly saya melakukan apa ee ee semuanya menggunakan
+21.27
+RGIS Enterprise. Ee jadi semuanya sudah
+21.34
+dalam satu ekosistem yang ak ee tinggal digunakan tetapi
+21.41
+dalam penerapannya juga tetap menggunakan sedikit e atau lebih banyak Python. Justru
+21.48
+sekarang istri saya itu istri saya juga bekerja sebagai bukan JS analis malah
+21.54
+sistem engineer ya. Sistem engineer untuk JIS eh tide communication. Jadi,
+22.00
+nah di sana itu yang benar-benar ee pemrograman itu diperlukan. Nah,
+22.08
+kebaliknya dia malah yang berkecimpung di sana, masuk di sana. Jadi, dia harus
+22.14
+belajar Python lagi dari awal ee untuk membuat beberapa tools karena mereka
+22.19
+perusahaan mereka itu menggunakan QJS kalau kalian pernah dengar open source.
+22.25
+Eh, jadi tools-tools yang mereka perlukan mereka develop sendiri. Sementara saya sekarang menggunakan RJS
+22.31
+Enterprise karena kebetulan City Council menggunakan
+22.37
+eh JS Enterprise dan FMI Future Manipulation Engine. Kalian perlu cari
+22.45
+ini FMI kalau bisa kalau enggak salah ada untuk student itu bisa gratis
+22.52
+belajar FMI ini karena dalam
+22.57
+industri ya terutama di untuk GIS dan aset managemen ini akan sangat digunakan
+23.03
+di luar negeri. Di Indonesia saja saya belum pernah dengar orang gunakan FMI
+23.08
+tapi di sini itu sudah jadi standar wajib sebenarnya.
+23.14
+Oke, next slide.
+23.21
+Iya, ini pengalaman saya. Saya memulai
+23.27
+karir profesional itu di tahun 2012.
+23.32
+Waktu itu saya menjadi surveyor juga, menjadi JS anal juga untuk project. Jadi
+23.42
+nanti nanti ada ceritanya. Jadi saya punya project bersama beberapa dosen
+23.48
+dari Fakultas Pertanian ee Fakultas MIPA kalau enggak salah itu
+23.53
+ada juga sama Fakultas Teknik juga ada beberapa orang ee untuk
+23.59
+ee kerja sama antara Universitas Bengkulu dan ee Pemerintah Provinsi Bengkulu untuk pemetaan
+24.08
+kalau enggak salah projek besar pertama itu dengan bukan dengan ee Provinsi
+24.14
+Bengkulu kalau enggak salah malah Bengkulu Utara. Jadi kami waktu itu melakukan pemetaan untuk lahan pertanian pangan
+24.20
+berkelanjutan supaya tidak ada alih fungsi lahan dari
+24.25
+ee lahan pertanian untuk padi menjadi
+24.31
+misalnya perumahan yang sering kita lihat sekarang kan atau menjadi lahan sawit dan lain-lain.
+24.37
+Nah, kemudian saya ee juga terlibat dalam beberapa
+24.43
+penyusunan dokumen AMDAL pertamaan batuara. Saya membuat tiga mining site
+24.49
+ee dinamika Selaras Jaya 1, Dinamika Selaras Jaya 2, kemudian Mitra Pajajaran
+24.55
+Prima, kemudian saya juga terlibat sebagai JS analis untuk ee
+25.04
+pembangkit listrik tenag ee tenaga mini hidro untuk ee PT Brantas Hidro Energi
+25.13
+di Padang Guci. dulu. Kemudian saya juga sempat bekerja
+25.21
+di Kementerian Hukum dan HAM sebagai analis keimigrasian, immigration analis.
+25.26
+Tapi selama era itu dari Desember 2017 sampai 2023 sebelum saya ke sini, saya
+25.33
+juga ee tetap bekerja sebagai konsultan JIS dan
+25.40
+beberapa projek ee kerja sama antara Universitas Bengkulu dan Pemerintah
+25.47
+Provinsi Bengkulu. Dan terakhir saya mengerjakan di
+25.52
+Indonesia, saya mengerjakan sampai tahun ini saya masih mengerjakan project sebagai senior Jays analis untuk
+26.02
+ee ee cetak sawah berkelanjutan
+26.07
+ee ee program pemerintah pusat yang diturunkan ke pemerintah provinsi
+26.14
+untuk ee pengembangan nahan sawah di Provinsi Bengkulu. dulu. Kemudian saya sekarang saya sebagai aset manajemen JS
+26.21
+analis untuk city Care properti. Tapi karir saya tidak seindah itu. Jadi 2023
+26.29
+kami memutuskan pindah ke Selandia Baru. Ee kebetulan
+26.37
+jalannya istri saya. Jadi, ISIS saya itu
+26.43
+ee ambil beasiswa dari universitas.
+26.49
+Ee tapi kami sudah merencanakan karena sebenarnya kami sudah merencanakan ini dari tahun 2015
+26.59
+ee ee 2016 maksud saya 2016 tetap eh 2015-2
+27.06
+2016 tetapi pada saat itu saya memutuskan untuk tinggal karena saya
+27.13
+ee harus bekerja untuk Kementerian Hukum dan HAM sebag sebagai analis
+27.18
+keimigrasian. Kemudian ee dia melanjutkan S2-nya di Selandia
+27.24
+Baru. Ee berdasarkan pengalaman dan ee
+27.32
+apa yang kami rencanakan itu kami itu ee sangat konscern dengan lingkungan,
+27.41
+sangat konsern dengan aset manajemen ya. data manajemen itu
+27.47
+kenapa sih di Indonesia itu jelek sekali data manajemennya itu saya itu
+27.53
+mengerjakan projek itu pusingnya setengah mati karena saya birokrasi yang
+27.59
+Indonesia yang berbelit-belit ee misalnya saya ingin dapat data HGU
+28.06
+nih hak guna usaha untuk misalnya pertambangan batubara saya harus ke
+28.13
+dinas ee lingkungan dengan ee saya harus ke Dinas
+28.18
+Pertanahan. Oh, ternyata kata Dinas Pertanahan datanya kami enggak punya mintanya dari
+28.25
+dinas yang ini, yang ini, yang ini. Tidak ada sinkronisasi antara
+28.31
+stakeholder pemerintahan di Indonesia itu. Nah, sementara Selandia baru ini
+28.37
+salah satu negara dengan aset manajemen yang terbaik ya. ee mereka punya
+28.44
+integrasi data yang sangat baik itu sudah terkenal dari dulu. Bahkan dibandingkan mungkin dibandingkan
+28.50
+beberapa negara maju yang lain, mereka salah satu yang terbaik itu. Kemudian mereka juga peduli lingkungan.
+28.58
+Ee saya turut bersukacita ya dengan kebakaran hutan di Indonesia.
+29.04
+Mungkin indeks polusinya bisa 200 sampai 300-an. Itu sementara
+29.11
+saya di sini ee indeks polusi mungkin 1 sampai 5
+29.18
+se polusi-polusinya. Jadi negara ini benar-benar konsern
+29.24
+dengan lingkungan. Bahkan kita mencuci mobil di depan rumah misalnya di rumah kita tidak ada pembuangan khusus untuk
+29.31
+air bisa kena denda. Itu eh benar-benar kons makanya kami memilih ke negara ini untuk
+29.39
+ee mencari pengalaman, menimba ilmu, kemudian membawanya ke Indonesia. saya nanti saya punya ee apa ya ee project
+29.49
+pribadi yang akan saya sampaikan nanti. Mungkin nanti berguna tapi ee saya
+29.54
+lanjutkan lagi seiring berjalanan waktu nanti kalian akan dengar Mas. Kemudian
+30.01
+ee ini yang mana yang harus kalian pilih akademik atau industri?
+30.11
+Salah satu yang saya perhatikan ya di sini
+30.16
+bedanya dengan di Indonesia bukan beda ya. Kita itu belum bisa mengambil
+30.23
+keputusan kita ini kuliah ini kita mau lanjut di industri apa mau lanjut
+30.29
+menjadi akademisi gitu. Kalau mau lanjut jadi akademisi, kalau
+30.35
+di sini ya dipost nanti. Oh, dengan dosennya kalian harus banyak nerbitin paper, kalian banyak melakukan
+30.41
+penelitian. Em kalau kalian mau ke industri ya
+30.46
+kalian harus magang. Magang industri ee
+30.51
+jangan setengah-setengah. Kalau setengah-setengah ya kayak di gambar ini ya kalian numbur yang itu tengah stuck
+30.57
+kalian di sana. Jadi life is a choice. E ya pilihan hidup itu
+31.04
+pilihan kalian gitu. Pilihan kalian kalian mau di akademik
+31.12
+atau di industri. Ee kalau dari pengalaman saya mungkin
+31.20
+kalian boleh tanya Ibu Ari. Ibu Ari mungkin sempat kesal sama saya ya. Saya tuh pernah ngilang gitu.
+31.27
+ngilang gitu. Ee ee ketika harus perbaikan saya sibuk
+31.34
+mengerjakan beberapa project. Tapi itu pilihan hidup saya karena saya pada saat itu saya memilih untuk di industri tidak
+31.41
+di akademik. Tapi untuk melanjutkan
+31.47
+akademik sih untuk menunjang pekerjaan saya, saya akan melanjutkan mungkin di sini nanti ee selesaikan dulu istri saya
+31.55
+kan karena istri saya kami kelabakan sekali kalau di sini
+32.01
+apa-apa harus sendiri jadi kami harus bergantian tapi saya tidak
+32.07
+melakukan penelitian, tidak menikkan riset tapi dengan
+32.12
+ee pendidikan lanjut ini di master ini saya harap saya bisa menambah ilmu saya sama
+32.19
+menambah relasi. Jadi tujuannya beda. Ada yang tujuannya
+32.25
+oh mau jadi akademisi ya S2 dia banyak belajar melakukan research. Sebenarnya
+32.30
+S2 itu bukan melakukan research ya belajar melakukan research. Jadi risetchnya
+32.36
+nanti yang seriusnya di S3. tadi kalau saya tujuannya beda. Saya mau membangun relasi, kemudian saya mau
+32.43
+membangun ee ee apa menambah ilmu saya di mengupdate ilmu saya di GIS, tapi yang
+32.50
+saya perlukan untuk industri bukan sebagai peneliti, bukan sebagai akademisi.
+32.57
+Kemudian kenapa sih gitu? Why GIS matters in today's industry?
+33.04
+Eh, kenapa sih penting itu JS sekarang? Jadi, JS sekarang itu sangat-sangat
+33.13
+kritikal untuk beberapa sektor bahkan mungkin hampir semua sektor ya. Bukan hanya pemerintahan, bukan hanya industri
+33.21
+yang berhubungan dengan pemetaan dan lain-lain. Tapi hampir berbagai macam
+33.27
+industri membutuhkan GIS. Salah satunya contoh
+33.33
+industri yang mungkin kalian tidak akan mengira membutuhkan JS itu Indomaret.
+33.38
+Indomaret itu punya data spesial sendiri untuk analisis mereka. Jadi, bagaimana
+33.46
+sih mereka itu menentukan ee ee tempat untuk membangun Indomaret ini
+33.52
+supaya tidak saling mengganggu satu sama lain? Dalam jarak berapa? Oh, radius
+33.58
+berapa. Oh, di area ini berapa populasinya? Kemudian dari bagian ee apa logistiknya
+34.07
+juga. Oh, bagaimana mereka caranya supaya logistik mereka efisien? Itu
+34.12
+semua JS gitu. Jadi, data spasial itulah yang akan jadi ee data pendukung
+34.20
+pengambilan keputusan mereka. Jadi hampir semua industri hampir ya
+34.27
+ee industri logistik seperti JNE dan lain-lain itu
+34.33
+tentunya sangat membutuhkan JS ini untuk efisiensi dan pengambilan keputusan
+34.39
+mereka. Jadi Bachelor of IT leads to a career in
+34.45
+JS. bagaimana ee
+34.51
+sarjana teknik informatika ini bisa
+34.57
+menunjang karir ee berkarir ya berkarir di JS. Jadi
+35.05
+yang seperti saya mention di awal tadi bahwa eh kita itu one step ahead dibandingkan
+35.13
+eh mahasiswa dari sistem informasi geografisnya sendiri. kita mengerti
+35.19
+pemrograman ee web, JavaScript, Python
+35.25
+eh sementara mereka itu sebagai end user kita bisa jadi end user karena kita akan
+35.33
+sangat ahli, akan sangat mahir sebagai end user dari software-software GIS yang
+35.38
+ada karena kita familiar dengan teknologi
+35.44
+tapi kita juga bisa jadi developer seperti yang dilakukan perusahaan istri
+35.50
+saya sekarang mengembangkan tools dan
+35.56
+JSnya ee peralatan JS-nya sendiri. Oh ya, istri saya tetap
+36.02
+melanjutkan studi dia. Dia sekarang mungkin sebentar lagi dia selesai.
+36.08
+Tapi kelebihannya kalau S3 di sini boleh sambil bekerja gitu.
+36.13
+Jadi dia maunya cuan cuan cuan. Jadi dia bekerja.
+36.19
+Em skill set apa sih ya yang IT skills
+36.27
+eh IT skill set for GIS apa aja? Eh tentunya database
+36.34
+managementen kita familiar dengan SQL.
+36.40
+Jadi misalnya kalau di eh JS itu ada post JIS untuk open
+36.45
+source-nya, SQL server, kalau yang untuk enterprise-nya,
+36.52
+bahkan eh untuk ARG sendiri mereka ada database sendiri gitu. Terus programming Python
+37.00
+se yang saya mention tadi, Python ya yang paling banyak ee terus JavaScript,
+37.06
+Visual Studio kalau kalian bisa. Tapi itu untuk advance ya,
+37.13
+advance development kalian. Computing, Azure,
+37.18
+RJS online. Nah, ini masalahnya. masalah di Indonesia itu
+37.25
+ee JS kita itu masih offline ee menggunakan yang offline
+37.31
+offline karena kita terkendala budget, kita masih sering menggunakan software
+37.38
+crack ketika belajar JS. Sementara fungsi-fungsi cloudnya
+37.44
+JS itu ada kalau kita menggunakan ee seri berbayarnya mereka. Jadi, tapi
+37.52
+enggak apa-apa. Sekarang perkembangan quantum JS sangat pesat QJS ya. Jadi kalian bisa
+38.00
+belajar QJS itu. Saya harapkan kalau kalian nanti mengambil minat ke JS
+38.07
+jangan lagi menggunakan JS JSN Crack atau apa. Itu sudah tidak update lagi
+38.12
+karena sekarang sudah sudah ada ArtJS Pro di mana kali ee
+38.20
+semua fitur-fiturnya sudah online punya portal sendiri. Tuh, kalau kalian
+38.26
+mau bergerak ke industri ini ee lebih baik
+38.31
+belajar QJS dari sekarang. Ee terus
+38.36
+kemampuan data analisis kita dan visualisasi kita. Misalnya kita merancang webmap, kita sudah familiar
+38.44
+sekali dengan merancang user interface untuk software yang kita
+38.50
+kembangkan selama kita kuliah. Terus system integration and API itu pasti
+38.57
+kalian sudah familiar. Google API kalian ambil untuk sebagai
+39.03
+source basemap kalian ketika kalian membuat PM dan lain-in. Terus mobile app
+39.08
+development. Eh, kalian kalau di AR di situ ada
+39.14
+namanya field map. Jadi kalau kalian pakai yang resing itu ada field map. Ketika kalian survei, kalian ambil data,
+39.20
+kalian enggak usah lagi tuh colok-colok kabel ke komputer untuk memindahkan datanya. Semua sudah terintegrasi
+39.27
+dan itu bisa kita kembangkan sendiri dengan menggunakan open source yang sudah ada sekarang. Dan itu salah satu
+39.32
+project saya sekarang me project pribadi ya. Saya maunya saya
+39.39
+mengembangkan ekosistem pengganti JIS Enterprise ini bisa digunakan untuk
+39.46
+konsultan saya tanpa tergantung kepada software yang berbayar. Kemudian bisa di
+39.52
+saya ee saya bisa memberikan kepada
+39.59
+almamater saya ya, kepada Universitas Bengkulu untuk digunakan misal untuk
+40.04
+melakukan beberapa project. atau penelitian mahasiswa. Tapi ini
+40.10
+sedang tahap pengembangan karena saya mengembangkannya di luar jam kerja saya. Jadi kalau ada nanti mungkin saya akan
+40.18
+sharing dengan Ibu Ari atau Ibu Kunia untuk agar agar bisa digunakan untuk
+40.28
+adik-adik ya. Jadi awal early beginnings and first
+40.34
+professional opportunity. Jadi awalnya sebenarnya awalnya tuh kalau ditarik sangat jauh ya. Saya
+40.43
+mulai menyukai JS itu sejak tahun 200728 saya masih SMA itu SMA kelas 3.
+40.53
+Jadi karena motivasinya uang ayah saya menawarkan oh saya
+40.59
+ee bakok punya project nih untuk pengembangan
+41.04
+ee kota mandiri terpadu gitu. Kamu mau enggak belajar ini? Kamu kan
+41.11
+suka ini komputer nih. Kamu mau enggak belajar ini? Waktu itu masih RVW saya.
+41.17
+Kalau kalian tahu RJS [mendengus] itu jauh-jauh sebelum RJS ada itu
+41.22
+namanya RVW. Pengembangannya sama SRI juga. Jadi saya belajar RVW. saya waktu
+41.29
+itu saya masih belajar untuk mendesain layout petanya dan segala macam belum ke
+41.36
+sampai data manajemen dan ee
+41.41
+ee digitasi dan lain-lainnya. Dari situ saya, "Oh, menarik ya." gitu.
+41.48
+Dengan JS itu kita bisa tahu ee potensi suatu lokasi, kita bisa tahu apa aja
+41.56
+yang ada di sana, bisa merencanakan apa yang akan kita kembangkan di sana dan lain-lain.
+42.04
+Kemudian saya terus memilih antara akademik dan industri. bukan saya
+42.12
+akhirnya tidak menyelesaikan kuliah kan saya menyelesaikan kuliah. Tetapi pada saat itu fokus saya harus ke mana? Fokus
+42.19
+saya misalnya membuat penelitian serius atau saya
+42.26
+ee banyak melakukan ee projek-projek sehingga saya mendapatkan pengalaman
+42.31
+lebih di industri. Ketika itu saya memain industri. Kalau kalian tahu penelitian akhir saya,
+42.39
+skripsi saya justru bukan di JS saya buat game.
+42.45
+Ee tapi di luar itu di industri saya banyak makan beberapa project sejak
+42.53
+2010. Ee kemudian em bertemu dengan beberapa akademisi dan
+43.02
+praktisi di Universitas Bengkulu. Saya waktu itu memulai dengan Bapak, sekarang
+43.09
+masih dia Profesor Faiz Barsia di Fakultas Pertanian. Kemudian almarhum
+43.17
+Bapak Samsu Nurmuin. Ee pada saat itu kami bersama-sama
+43.24
+melakukan beberapa projek. Saya melakukan ee pengambilan data dan analisis untuk
+43.31
+erosi DAS Bengkulu kalau enggak salah. Eh bukan DAS mana ya saya lupa. Das
+43.38
+Dikaur kalau enggak salah Das apa saya lupa namanya. Ee kemudian pada saat itu saya diajak,
+43.46
+dipercaya untuk melatih beberapa ee staf ee Dinas Pertanian
+43.55
+seluruh provinsi. Jadi dari semua kabupaten dan kota dikumpulkan oleh
+44.02
+Dinas Pertanian Provinsi. Kemudian saya memberikan pelatihan pada saat itu saya
+44.08
+ingat ya awal-awal Android populer Android dan iPhone populer.
+44.15
+Jadi karena Android lebih afdable waktu itu untuk orang Indonesia,
+44.22
+staf dinas sudah punya banyak punya Android. pada saat itu
+44.27
+masih menggunakan GPS yang konvensional. Kalau kalian tahu GPS untuk Pfinder itu
+44.35
+seperti Garmin itu digunakan untuk survei padahal eh akurasinya tidak terlalu bagus gitu.
+44.44
+Ee dan fungsinya bukan itu sebenarnya bukan untuk survei. Tapi balik lagi ke keterbatasan anggaran, keterbatasan dana
+44.52
+karena sangat mahal GPS. RGK itu time kinematic itu bisa berharga
+45.00
+satu mobil Innova Ribond gitu kalau diuangkan. Ee jadi pada saat itu
+45.07
+masih banyak yang menggunakan GPS konvensional. Waktu waktu itu saya mengajarkan ke
+45.13
+mereka bahwa Android ini punya sensor GPS yang sama loh. GLONAS kalau
+45.21
+sekarang Galileo dan sekarang ada ya. satelit Baido.
+45.27
+Ee sementara yang mereka gunakan itu sama ee
+45.34
+akurasinya sama. Kenapa mereka tidak menggunakan yang sudah ada aja? Saya saya ajarkan apa yang harus software apa
+45.41
+yang harus di-download, bagaimana menggunakannya, bagaimana cara mengekspor datanya. Mereka senang ee banyak dari beberapa
+45.49
+dinas pertanian dari beberapa kabupaten mengontak saya
+45.54
+mengajak beberapa projek karena mereka tahu kebetulan ayah saya juga
+46.01
+ee dosen ya di Fakultas Pertanian. Ee sampai akhirnya kami mendapatkan
+46.08
+banyak projek-projek besar sampai sekarang. Saya harap ini dilanjutkan ya untuk
+46.14
+projek-projek ini. Nanti mungkin salah satu dari kalian kalau nanti ada dosen
+46.19
+dari Fakultas Teknik atau terutama dari Teknik Informatika atau sistem informasi
+46.24
+yang ikut mengerjakan projek. Saya harap dari kalian ada yang diajak mungkin
+46.30
+karena bagus banyak dari alumni-alumni projek kami yang sekarang bekerja di
+46.37
+industri-industri dan pemerintahan dengan ilmu yang mereka dapatkan
+46.44
+ketika melakukan projek bersama kami.
+46.52
+Emm, collaboration and growth. Jadi
+46.58
+waktu itu apa sih kolaborasi dan ee pengembangan yang ingin saya lakukan
+47.05
+pada saat itu? Jadi yang saya lakukan adalah saya bersama ayah saya itu ee
+47.12
+bersama beberapa dosen dari Universitas Bengkulu kami membuat grup konsultan kami sendiri. Kalau bisa kalian lihat di
+47.19
+PowerPoint ini untuk foto-foto kegiatan kami. Jadi
+47.25
+kami mengerjakan beberapa project JS yang besar, sangat besar.
+47.30
+Ee ini motivasi ya untuk kalian ya. Nilai pronya itu kisaran 1 sampai 5 miliar
+47.38
+gitu per tahun. Ee kadang ada beberapa projek kecil di
+47.44
+antaranya gitu. Kemudian
+47.49
+ee nah enaknya gitu ya, kalau kalian jadi konsultan yang dipakai itu otak
+47.54
+kalian tuh, resource kalian ini otak. Kalau kalian jadi em
+48.01
+eh kontraktor itu resource kalian material segala macam
+48.06
+ee margin yang kalian dapatkan itu tipis, kecuali kalian mau potong sana
+48.13
+potong sini. Tapi kalau kalian sebagai konsultan itu sefisien apa kalian mengerjakan sebesar
+48.20
+itulah marin kalian. Jadi waktu itu kami memang fokusnya ke lingkungan, ke
+48.25
+pertanian karena Bengkulu sendiri kan provinsi yang masih berkembang dan
+48.30
+sektor-sektor itu masih sangat banyak dan ahlinya pada saat itu di Bengkulu
+48.36
+masih sangat kurang. Saya termasuk salah satu
+48.41
+ahli pemetaan pada saat itu dengan basis data yang sangat besar. Kebetulan juga saya punya koneksi dengan Badan
+48.48
+Informasi Geospasial waktu itu Mas namanya masih Bakurtana sekarang BG
+48.56
+ee Badan Informasi Geospasial. Jadi saya ada akses untuk bukan akses ya, akses
+49.03
+untuk membeli lah membeli beberapa saat itu citra satelit itu enggak segampang
+49.10
+kalian sekarang dapatkan gitu ya. Kita mau mendapatkan citra satelit pada saat itu harus beli gitu, beli dan harus tahu
+49.16
+harus membeli ke siapa gitu. Jadi saya pada saat itu saya termasuk salah satu bukan salah satu ya mungkin grup
+49.23
+konsultan kami satu-satunya grup konsultan dengan database JS terbesar pada saat itu di Provinsi Dunggul.
+49.32
+Kemudian overcoming challenges. Apa sih tantangan-tantangan saat kami
+49.38
+memulai ee konsultan membentuk konsultan JS ini?
+49.44
+Tantangannya satu, universitas itu minim. equipment untuk JIS ini.
+49.51
+Jangankan teknik informatika, ya, itu teknik sipil. Sampai sekarang saya boleh jamin belajar mengukur konturnya masih
+49.58
+pakai theodolit manual.
+50.04
+Zaman ini alat alat zaman Belanda ya. karena kita terkendala anggaran dan
+50.14
+lain-lain kan di universitas kita kan tidak sebebas itu. Jadi yang kami lakukan ya
+50.21
+selama project itu sebenarnya kalau mau mengambil untung
+50.26
+sebanyakbanyaknya ya bisa aja dengan memakai peralatan yang kami ada seadanya
+50.32
+aja itu dengan hasil yang mereka harapkan standar hasil mereka harapkan cukup gitu tapi yang kami lakukan adalah
+50.40
+kadang-kadang kami sampai 30% dari budget untuk pekerjaan itu kami
+50.48
+habiskan di membeli peralatan untuk anak-anak. Jadi
+50.55
+anak-anak survei kami itu sudah hands on anak-anak mahasiswa UNIP ya. Ini biasanya mereka yang ikut kami itu
+51.02
+mahasiswa-mahasiswa semester akhir gitu atau semester ee atau tahun-tahun tengah gitu
+51.09
+ikut project kami bisa hands on ee
+51.14
+alat-alat JS yang terbaru. Jadi itu itu kalau kalian lihat tuh ada di gambar di
+51.20
+bawah ini. Ini GPS ATK ini Best andend station itu
+51.25
+kalau mau beli sendiri universitas harus mengeluarkan seharga satu inovary bond untuk memeliat ini. Nah, ini total
+51.33
+station ini sekarang kami sudah punya dua apa tiga unit ya gitu. ee
+51.40
+ini seharga mobil juga walaupun lebih murah daripada ini dan itu sangat mahal ya kalau dikumpulkan dari tahun ke tahun
+51.47
+mungkin universitas atau fakultas butuh budget miliaran untuk membeli alat-alat ini.
+51.53
+Drone juga kami punya drone. Ee tapi alat ini tidak
+52.00
+kami komersialkan ya. Maksudnya tidak kami komersialkan untuk kepentingan
+52.06
+universitas. Jadi kalau kalian seandainya mau melakukan penelitian
+52.12
+dengan tentang JS atau dosen yang mau menggunakan peralatan untuk
+52.20
+project silakan gitu. Karena memang kami hanya merawatnya saja karena konsultan
+52.26
+kami punya budget, isi konsultan kami juga dosen-dosen dan staf-staf kemudian
+52.33
+mahasiswa dari Universitas Bengkulu. Jadi alat ini bisa kalian gunakan nanti
+52.39
+suatu saat kalau kalian berminat di GIS [mendengus] ee drone bisa kalian gunakan
+52.45
+untuk belajar fotogrametri mengambil areal image yang terbaru tanpa
+52.52
+tergantung kepada subscription citra satelit yang sangat mahal gitu.
+52.59
+belajar cara memetakan ee apa eh digital surface
+53.08
+model dengan menggunakan drone gitu. Jadi kalian bisa
+53.14
+jadikan itu misalnya untuk penelitian kalian ee atau di sini saya rasa tuh banyak ee
+53.21
+mahasiswa-mahasiswa yang sudah punya iPhone. font seri pro kalian itu bisa saya kalian manfaatkan itu misalnya
+53.28
+dengan menggunakan ee apa ini tambahan
+53.35
+ee GPS ATK ini ditambah ee menggunakan
+53.43
+bukan tripod ya nanti menggunakan gagang khusus untuk menaruh handphone kalian
+53.50
+kalian bisa menggunakan kamera liher ya
+53.56
+ee laser ee itu khusus fitur khusus slider itu yang hanya ada di
+54.04
+iPhone serio. Kalau saya kira pasti banyak mahasiswa-mahasiswa walaupun puny
+54.10
+seri lama itu bisa kalian gunakan untuk men-scan bangunan
+54.15
+3D ee membuat model 3D-nya. Kemudian bisa ya bisa menjadi topik penelitian
+54.23
+yang menarik untuk kalian dan itu sangat berguna di industri sekarang ini sangat berguna. Tapi di
+54.30
+industri ketika kalian sudah bisa menggunakannya dengan
+54.36
+peralatan-peralatan yang kalian punya seperti menggunakan kamera iPhone dan lain-lain, setidaknya kalian tuh tahu
+54.41
+prosesnya gitu. Nanti di industri nanti perusahaan pun akan menyediakan alat-alat yang lebih canggih untuk rider
+54.50
+scan leader scanning ee GPS yang mungkin lebih canggih daripada yang kita punya.
+54.58
+Ee kemudian ee ya ini yang terakhir itu kami ingin
+55.06
+itu mahasiswa yang ikut dengan kami itu siap untuk
+55.12
+punya pengalaman level industri gitu. Jadi dulu
+55.18
+kalau kalian pernah dengar itu oh pakar J si ini pelit-pelit bagi ilmu gitu
+55.24
+karena taking proyek. Kalau saya enggak saya selama kalian ikut proek nanti
+55.31
+ya mungkin kalau ada projek-projek masih dipercaya untuk melakukan projek-projek yang lain ke depannya ee kalian bisa
+55.39
+ikut. Kemudian akan diajarin semua skill yang skill set yang kami punya akan kami
+55.45
+turunkan semua kepada mahasiswa dan itu yang kami harapkan gitu. Kalau bisa mahasiswanya lebih mahir daripada saya
+55.51
+gitu. Ee perkara akan menjadi saingan atau tidak itu tergantung kita kan. Kita
+55.58
+tinggal update ilmu kita aja. Karena zaman sekarang itu ilmu itu selalu berkembang gitu. Jadi untuk apa disimpan
+56.06
+sendiri itu jadi lebih baik kita share, kita punya resource, human resource yang
+56.11
+banyak gitu. Saya bisa panggil mereka sewaktu-waktu. sampai sekarang tuh masih banyak yang ikut sama saya itu kayak
+56.20
+Gilang dari teknik sipil itu Agung Eko Baskoro itu mereka sudah bekerja di
+56.27
+Dinas Pekerjaan Umum tapi tetap ikut kami dalam beberapa project
+56.34
+dan mereka itu setiap ada update terbaru tentang GIS atau ee tentang
+56.41
+ee teknik sipil ya mereka akan mendapat ilmu yang terbaru itu. Itu ini semua itu
+56.47
+kalian itu mahasiswa-mahasiswa Universitas Bengkulu saya ajarkan cara
+56.53
+ee membuat citra ee dengan menggunakan drone.
+57.01
+Kami ajarkan menggunakan GPS geodetik dengan baik dan benar. Itu tidak lagi
+57.09
+mereka hanya bisa menggunakan teodorit yang manual. mereka sudah menggunakan industrial grade
+57.16
+ee total station gitu dan lain-lain. Nah,
+57.22
+dan ee mereka kami upah dengan sangat baik gitu jauh
+57.29
+di atas UMR Bengkulu. per bulan tuh mereka bisa selesai project bisa beli
+57.37
+motor, bisa beli laptop yang bagus secara cash. Tu lihat laptop mereka bagus-bagus tuh. J kami
+57.44
+tidak yang kami inginkan itu ee
+57.50
+kalau uang itu tuh segitu aja. Kalau kalian sudah dapat di level-level
+57.55
+tertentu, uang itu ee ya segitu-gitu aja nilainya gitu.
+58.02
+Tapi melihat mahasiswa-mahasiswa Universitas Bengkulu ini berkembang gitu
+58.08
+dengan lebih e dengan teknologi-teknologi terkini itu saya senang.
+58.14
+Kami senang bapak saya ee ayah saya itu senang gitu membagikan ilmu kami.
+58.23
+Eh ya itu impact dan eh impact and contribution tuh.
+58.30
+What's our impact and contribution? ee jadi bridge ya, jembatan antara
+58.38
+akademik dan industri itu. Kemudian
+58.43
+ee kami juga skill-skill industri, skill-skill yang terbatas yang
+58.50
+bisa dipelajari di universitas karena terkendala peralatan software dan lain
+58.56
+sebagainya bisa mereka dapatkan bersama kami. Terus kami juga mempromosikan
+59.04
+bahwa JS tuh sebenarnya enggak gitu-gitu aja gitu. Js itu lebih besar daripada
+59.09
+itu nih. Ee bisa kalian lihat oh model 3D dari
+59.15
+ee area ini, bangunan-bangunan di sekitar area ini bisa bisa loh kita bikin tuh dengan dengan J.
+59.23
+Ini citra citra yang lebih tajam daripada citra satelit
+59.29
+gitu. bisa kalian buat sendiri. Oh, anak-anak hands on dengan GPS
+59.37
+geodetik yang selama ini tidak bisa mereka dapatkan di universitas
+59.42
+dan lain-lain. Emm,
+59.49
+career advancement ya. Seperti yang sudah saya ceritakan tadi,
+59.55
+sebenarnya orang di Selandia Baru ini sangat sangat menghargai
+1.00.00
+ee skill kalian, kemampuan kalian. Ijazah itu adalah hal terakhir yang
+1.00.07
+mereka lihat. Hal terakhir yang mereka Tapi tidak tidak ini ya tidak menutup kemungkinan
+1.00.14
+juga ee akan lebih menunjang seperti saya dan istri saya. Jadi saya punya cerita unik nih. Pekerjaan yang istri
+1.00.22
+saya dapat itu. Jadi saya lewat linkin saya eh ada
+1.00.28
+perusahaan namanya T communication. Tide Communication ini perusahaan telekomunikasi radio terbesar tuh di
+1.00.37
+di dunia. Salah satu di dunia dan terbesar di New Zealand. Saingannya Motorola sebenarnya. Tapi kalau dengar
+1.00.43
+jarang dengar karena dia level industri yang diarik.
+1.00.48
+Jadi tak saya diin dia lihat pengalaman saya di bidang JS sudah banyak. Nah,
+1.00.55
+jadi itu salah satu yang penting bagi kalian ya kalau kalian mau berkarir ya. Dan ini yang salah dari saya karena saya
+1.01.01
+selama ini berada di zona nyaman gitu. saya
+1.01.08
+memiliki pekerjaan-pekerjaan pekerjaan tetap yang baik di Indonesia dan saya memiliki konsultan yang berkembang
+1.01.14
+dengan sangat bagus sehingga saya merasa oh saya yang menghire orang saya tidak butuh Linkin.
+1.01.21
+Saya baru sadar ketika saya pindah ke Selandia Baru gitu. Bagaimana sosial media ini sangat menunjangun
+1.01.28
+menunjang untuk karir saya ke depan. Jadi sampai di sini saya baru oh saya
+1.01.33
+update lah pekerjaan-pekerjaan saya. selama saya di Indonesia gitu, JS. Dan
+1.01.39
+akhirnya manajer, salah satu manajer dari S communication
+1.01.45
+itu menghubungi saya linkin, kamu mau tidak wawancara di sini ya, di sini
+1.01.51
+orang itu jangankan dikasih wawancara langsung ya, kalian daftar ya ada ratusan kali pun mungkin
+1.01.59
+enggak dipanggil wawancara. ee kemungkinannya sangat kecil. Tapi
+1.02.06
+pada saat itu saya beruntung, saya dipanggil wawancara
+1.02.11
+ee oleh Angus namanya. E Angus itu manager
+1.02.18
+di ted.
+1.02.23
+Jadi dia cerita kalau dia punya project yang sangat besar. Jadi dia buat mereka
+1.02.30
+itu sekarang lagi mengupdate meng-upgrade ya project untuk radio.
+1.02.35
+Radio komunikasi ini memang terdengar jadul ya radio tapi tidak tergantikan
+1.02.41
+sampai sekarang karena reliable gitu tidak terganggu,
+1.02.47
+tidak gampang terganggu cuaca dan lain-lain. Jadi kalau kalian tahu tuh walkietalkie itu sampai sekarang tuh
+1.02.54
+polisi, tentara. Kalau di sini namanya NZ Defense. Mereka tidak punya tentara. Mereka punyanya pasukan pertahanan,
+1.03.02
+ambulance, eh police, NZ defense, em
+1.03.07
+eh fire department, semua menggunakan
+1.03.15
+ee radio komunikasi. Jadi mereka membuild itu, mereka membutuhkan ahli JS
+1.03.20
+yang ada latar belakang IT-nya juga. em
+1.03.27
+mereka butuh orang yang sudah pengalaman jadi sudah tahu nih ee oh
+1.03.35
+bagaimana cara menyelesaikan masalah berbasis ini. Singkat cerita ee saya
+1.03.43
+tanya gitu boleh enggak istri saya ikut wawancara juga? Dia pengin kerja juga.
+1.03.49
+dia kerja. Ee jadi selama ini saya e
+1.03.54
+saya dan istri saya tuh ini mengerjakan project. Semua projek itu kan bersama-sama sama ini di Indonesia juga
+1.04.01
+kan. Jadi dia punya latar belakang pengalaman yang sama dengan saya. Dia juga dosen
+1.04.07
+di Fakultas Teknik, teknik Sipil gitu.
+1.04.13
+Bahkan dia karena dia dosen ya, jadi pada saat itu ada beberapa project nama dia sebagai
+1.04.20
+lead. Saya waktu itu di imigrasi, saya tidak bisa menjadi lead.
+1.04.26
+PNS enggak boleh double jabatan. Jadi saya boleh sebagai konsultan tapi enggak boleh sebagai lead.
+1.04.32
+Jadi dia beberapa project dia pernah menjadi lead.
+1.04.38
+Oh iya boleh kata dia istri. Kemudian istri saya ikut wawancara.
+1.04.43
+Ee kami punya ee punya pengalaman yang sama gitu ya. Walaupun
+1.04.51
+pengalaman saya di JS lebih lama daripada dia, tetapi karena pendidikan ee dia lulusan sini, master di sini
+1.04.59
+sedang PhD. Ee dia duluan yang masuk. Oke, dia ee
+1.05.05
+oke, istrimu duluan gitu. Nanti kamu ee batch selanjutnya ketika proses
+1.05.11
+berjalan, mereka merasa dengan tim yang ada efisien saya enggak jadi gitu. Saya
+1.05.17
+yang masuk. Jadi jangan kalian juga menyepelekan
+1.05.23
+akademik. Akademik itu tetap sangat penting. Tapi lebih sangat penting lebih penting
+1.05.30
+lagi ee pengalaman. Jadi me build
+1.05.35
+experience itu sangat penting. Jadi orang sini sangat ee suka dengan orang
+1.05.42
+yang punyaai pengalaman banyak dan
+1.05.48
+mereka itu sampai sekarang melihat ijazah saya aja enggak pernah. Kayaknya
+1.05.53
+mereka percaya, "Oh, tahunya saya itu S1 gitu, S1 Teknik Informatika gitu. Saya
+1.05.59
+sudah waktu daftar saya ee upload
+1.06.05
+eh kopi digitalnya, tapi sekarang mereka enggak pernah melihat sama sekali aslinya. Jadi kalau di Indonesia saya
+1.06.12
+sudah ditanya itu ijazah saya asli apa enggak, ada apa enggak, tapi di sini enggak pernah.
+1.06.19
+Jadi bagi mereka itu pengalaman itu sangat penting dan ketika mereka ajak
+1.06.26
+ee kalian bekerja, oh benar enggak ini kalian benar-benar bisa bekerja gitu.
+1.06.31
+Eh ya di sini eh bisa kalian lihat spesialisasi saya di aset managemen
+1.06.38
+special data analisis and infrastructure mating.
+1.06.44
+Tapi sampai sini pun karir saya enggak selancar itu ya. Jadi sampai di sini
+1.06.50
+saya juga pernah bekerja kasar ya, blue color.
+1.06.58
+Berapa tahun saya kerja blue color ee tapi semari itu ee beruntungnya karena
+1.07.04
+perbedaan waktu ya. Di sini waktunya lebih cepat. Jadi di sini sudah sore di Indonesia tuh
+1.07.10
+masih pagi. Jadi saya malamnya masih bisa bekerja sebagai konsultan
+1.07.17
+secara remote di Indonesia mengawasi projek-projek yang masih ada gitu dan
+1.07.23
+mereka suka gitu. Oh, berarti kamu tetap update dengan J
+1.07.29
+salah satu tips dari saya ketika kalian pengin mengejar suatu karir misal jadi programmer atau seperti saya JS analis
+1.07.37
+terus kalian kalian tuh harus tetap bekerja gitu mau apapun
+1.07.43
+apalagi kalau sudah berkeluarga nanti punya anak istri tanggung jawab sudah ada gitu ee tetaplah bekerja pada
+1.07.52
+pekerjaan apapun yang kalian dapatkan enggak usah pilih PD sambil itu sambil kerjakan saya bisa mengerjakan membangun
+1.07.59
+portfolio pribadi menggunakan ee perbanyak di GitHub kalian gitu
+1.08.05
+portfolio pribadi kalaupun tidak menggunakan ee mengerjakan project sendiri
+1.08.11
+yang penting kalian kerja gitu jangan ada kosong orang di sini akan jadi pertanyaan kalau kalian oh kalian ke
+1.08.16
+mana aja 1 tahun ini tidak melakukan apa-apa jangan terima kerjaan apa aja yang bisa kalian
+1.08.23
+kerjakan kan sambil kerjakan pekerjaan yang lainnya, project yang
+1.08.29
+lainnya atau projject pribadi gitu, tapi kalian tetap bekerja.
+1.08.36
+Ah, ini yang saya bahas tadi visi saya ke depannya itu vision forward.
+1.08.42
+What my future vision eh concern ya my main concern
+1.08.50
+kern utama saya itu saya itu penginnya terutama almamater
+1.08.58
+saya ya kita enggak menggunakan lagi tuh namanya software-software crack kita mau
+1.09.03
+kembangkan sendiri ee terutama untuk js ya ekosistem kita
+1.09.10
+sendiri di sekarang quantum JIS, Post JIS, Geopanda segala macam ada bisa kita
+1.09.16
+gunakan, bisa kita integrasikan, kita membangun beberapa tools sendiri
+1.09.21
+juga gitu. Nanti ee ke depan itu saya penginnya
+1.09.28
+ee mengganting RJS Enterprise ini. Jadi ada namanya kalau di RJIS Enterprise ini ada
+1.09.37
+js Pro itu aplikasi desktopnya ada js
+1.09.42
+online itu web web map-nya yang bisa kita akses yang biasa diakses
+1.09.48
+klien kita, misalnya customer kita yang bisa kita akses tanpa harus menggunakan PC kita yang mumpuni gitu
+1.09.58
+untuk menyajikan data. Ee kemudian S portalnya untuk portal menyimpan
+1.10.05
+data-data kita. Jadi enggak ada lagi tuh kalian survei dari GPS pindah manual ke
+1.10.11
+laptop terus di laptop baru diolah enggak ada. Jadi semuanya seamless
+1.10.16
+terintegrasi. Kalian punya aplikasi field sendiri di handphone yang terintegrasi dengan
+1.10.22
+GPSTK. Kemudian kalian sampai di rumah, kalian buka ee
+1.10.30
+ATS desktop ee data kalian akan tercari di sana. Kalian tinggal
+1.10.37
+post processing di sana. Visi saya ke depannya itu saya lagi mengembangkan itu. Sekarang saya lagi
+1.10.46
+ada beberapa kendala ya, RAM. RAM dan storage mahal sekali sekarang. Jadi saya sedang mengembangkan itu ee home server
+1.10.53
+sendiri akan saya kembangkan untuk
+1.10.58
+jadi nanti kalau sudah siap pakai mungkin akan saya sharing
+1.11.04
+dengan kalian gitu. Saya penginnya saya mementori kalian
+1.11.09
+pengaplikasian JIS itu gimana?
+1.11.15
+Ee walaupun kita menggunakan open source ya, bahkan perusahaan sebesar T communication aja yang projectnya 1
+1.11.21
+billion dollar itu tetap menggunakan QJS karena pengembangannya sangat mudah
+1.11.28
+gitu. Tool-tools yang enggak ada di JIS itu ada bisa kalian kembangkan di sana.
+1.11.33
+Visi saya ke depannya itu ya menjembatani kali juga ee
+1.11.40
+akademik dan industri ya dengan ee senior-senior saya mungkin
+1.11.47
+dengan dosen-dosen lainnya di teknik informatika dan sistem
+1.11.53
+informasi. Pengin saya itu ke depannya kita enggak tergantung lagi sama software-software
+1.12.00
+pajakan. enggak tergantung sama software yang berbayar sehingga harus jadi beban universitas g saya mau mengembang ini
+1.12.09
+dan salah sedang dalam pengembangan em
+1.12.16
+eh major trends driving the demand for JS ya tren-tren yang sekarang serba digital
+1.12.24
+gitu ee yang informasi yang serba terbuka itulah yang membuat demand kepada JS itu
+1.12.32
+semakin tinggi. Kalau kalian pernah dengar smart cities dulu musim-musim politik di Indonesia
+1.12.39
+ada tuh smart cities di Jakarta zamannya Pak Ahok G dan Pak Anis itu eh dan smart
+1.12.48
+c ini udah terintegrasi lama di Selandia Baru. Jadi semua data publik itu bisa
+1.12.56
+diakses di sana publik bisa melapor. namanya adalah SnapS and Solve.
+1.13.02
+Jadi kami sebagai solver gitu eh masyarakat yang snap and S. Jadi
+1.13.07
+misalnya mereka lihat, oh potong pohon ini mau rubuh, mereka foto ada geotag-nya
+1.13.13
+ee kami dapat kami review eh preprocessing. Sebelum ambil data saya
+1.13.19
+dikirim untuk mengambil data dan melakukan post processing. Kemudian itu akan di-upload lagi ke CT Counsil.
+1.13.27
+University Council akan meng apa? e alokasikan dana untuk
+1.13.33
+perbaikan itu dan tim dari kami di City Care Property itu akan melakukan pemangkasan atau
+1.13.41
+pemotongan untuk pohon tersebut. arboris ya. Kalau arboris itu yang menangani pohon-pohon itu. Jadi saking sayangnya
+1.13.47
+ya jangankan membakar di sini pohon itu
+1.13.53
+dititikin satu-satu sekota itu kayak bayangkan itu aset ya lebih berharga daripada
+1.14.00
+gedung-gedung itu pohon itu. Jadi itu smart cities ya aset and
+1.14.06
+property management itu yang saya ceritakan tadi. pohon itu termasuk aset
+1.14.12
+berharga bagi kota gu infrastructure mapping ya pemetaan infrastruktur itu
+1.14.18
+misalnya kalau di sini taman bermain sini taman bermain besar-besar itu gratis bagus gu untuk anak-anak
+1.14.26
+itu aset kota gitu kan eh public library itu semuanya
+1.14.33
+infrast infrastruktur itu kita petakkan gitu jadi masyarakat itu bisa mengakses
+1.14.39
+ee perusahaan seperti Google itu Apple itu bisa mengaksesnya dengan mudah sehingga bisa diintegrasikan dengan map
+1.14.47
+mereka kan. Jadi mahasis ee apa ee masyarakat itu mempunyai
+1.14.53
+data terupdate misalnya untuk navigasi mereka. Di sini navigasi itu tidak sesusah di Indonesia ya. Di Indonesia
+1.14.59
+itu karena tidak ada integrasi data gitu. Jadi misalnya kalian mau ke rumah kalian nih. Jadi di sini itu nomor rumah
+1.15.05
+itu street number. Misalkan rumah saya 57 Luca Cresen. Saya ketik ya udah itu
+1.15.11
+titiknya pas di rumah saya gitu. Dari mana ee Google dapat data itu gitu
+1.15.16
+ya? Dari pemerintahnya karena pemerintahnya sudah seterbuka itu dengan data gitu. Kalau di sini masih oh dinas
+1.15.22
+ini menutupi. Oh ini data ini punya sini data kalau di
+1.15.27
+sini namanya parcel ya. eh primary parcel. Primary parcel itu boundary,
+1.15.33
+batas-batas pemilikan lahan itu terbuka bisa kalian akses di lins itu eh
+1.15.44
+badan informasi geospasialnya New Zealand. Jadi bisa kalian akses tuh batas-batas tanah di sana terbuka.
+1.15.53
+Enggak tiba-tiba tanah kalian bisa dicomot gitu. ee enggak tiba-tiba ada sertifikat bisa
+1.16.00
+doble. Jadi kalian ketikkan alamat mana pun itu sangat akurat gitu kan. Kalau kalian
+1.16.07
+nge-grab ya nge-uber itu kalian bisa dapat misalnya ngantar bareng itu ya
+1.16.13
+alamatnya tepat di depan rumahnya karena datanya seterbuka itu gitu. Dan memang
+1.16.19
+di saat yang modern seperti ini enggak ada lagi ke data itu disembunyi-sembunyiin harus terbuka
+1.16.24
+gitu. Indonesia belum sampai ke tahap itu. Cita-cita saya setidaknya Provinsi
+1.16.30
+Bengkulu bisa. Ee kemudian environmental monitoring itu
+1.16.39
+ya yang saya bilang tadi pohon itu termasuk lingkungan itu taman di sini taman-taman rumput ya. Rumput itu kalau
+1.16.47
+di sini burms menyebutnya. Ee jadi antara jalan stapak gitu sama
+1.16.54
+rumah kita eh sori antara jalan stapak dan jalan
+1.16.59
+itu ada BMS. Burms itu tanggung jawab masing-masing
+1.17.06
+rumput itu tanggung jawab masing-masing rumah di depan yang ada rumput di depannya itu untuk dipelihara gitu. Tapi
+1.17.12
+kalau orangnya sudah tua misalnya, mereka kan melapor dengan kami, "Oh, kami tidak sanggup lagi karena kami
+1.17.18
+sudah tua, tidak punya peralatan gitu. Tolong minta tolong ini untuk diurus
+1.17.24
+oleh konsil." Maka konsil akan mengambil alih. Saya ambil data dan kemudian itu akan dianggarkan. Jadi seterbuka itu
+1.17.31
+data seharusnya ya dan seter koneksi satu sama lain. Enggak ada
+1.17.37
+stakeholder punya data masing-masing di sini. Makanya itu pentingnya FMI yang
+1.17.42
+itu yang harus kalian pelajari. Eh, future manipulation engine. Jadi nanti enggak ada lagi tuh.
+1.17.52
+Kalau kalian nanti sudah belajar JS tuh ada atribut-atribut nanti. Atribut itu
+1.17.57
+luas. ee misalnya kalau ee ada kebun itu jenis kebunnya kebun
+1.18.03
+apa gitu, terus ee kelilingnya berapa,
+1.18.09
+koordinatnya di mana, pemiliknya siapa? Itu namanya atribute.
+1.18.15
+Jadi enggak ada lagi atributnya yang berbeda
+1.18.21
+dinas, beda instansi, beda atribute. Enggak ada. Jadi semuanya sudah satu
+1.18.28
+gitu. Ee data driven decision making yang kayak saya contohkan tadi eh
+1.18.37
+kayak kalau perusahaan itu menentukan
+1.18.43
+ee Indomaretnya menentukan di mana kita harus membangun Indomaret baru lagi.
+1.18.48
+Apakah di sini masih bisa ee marketnya sesuai atau enggak, itu semua
+1.18.55
+didukung. OL JS eh skill-skill yang harus kalian
+1.19.01
+pelajari itu ya JS ProJS online mungkin
+1.19.07
+bisa kalian pelajari ya js map ya kalau sekarang enggak ada cracknya gitu kan tapi saya harap enggak sih lebih baik
+1.19.15
+kalian b QJS karena dua software ini akan sangat sulit kalian dapatkan
+1.19.20
+kecuali kalian masuk ke industri ee tapi coba akses Ya, mungkin juga nanti
+1.19.26
+universitas bisa ada kerja sama atau akses gitu, punya license sendiri untuk
+1.19.32
+student kayaknya lebih lebih murah. FMI ini yang saya bilang tadi ee terus QJIS,
+1.19.39
+QJIS sih belajar itu bagus banget kalau mau berkarir di sana.
+1.19.44
+Eh, kemudian mastering di Python-nya Ibu Ari Patri tuh
+1.19.51
+mungkin eh salah satu di Python di tempat kalian karena dia itu kalau
+1.19.58
+enggak salah saya remote sensing kan eh PHC-nya.
+1.20.03
+Eh, kemudian ya itu Post JS dan special database management yang lainnya banyak
+1.20.09
+open source-nya. Kalian bisa cari sendiri sekarang ini yang penting itu sebenarnya
+1.20.16
+satu, kalian itu enggak harus mahir pemrograman.
+1.20.21
+Yang harus kalian pelajari itu adalah bagaimana flow pekerjaan, suatu pekerjaan. Jadi,
+1.20.29
+kalian tahu itu flow-nya. Sehingga ketika kalian menggunakan AI, kalian bisa
+1.20.36
+ee meng apa ya? Prom bisa prom-nya bisa maksimal gitu kan sehingga kalian tidak
+1.20.42
+boros token gitu. Ee kalian bisa menggunakan AI untuk
+1.20.48
+mendukung ee misalnya kalian mau membik satu project atau apa, tapi kalian tuh harus
+1.20.55
+tahu flow-nya. Yang harus kalian pelajari itu flow-nya. Sekarang tidak ada lagi
+1.21.02
+programmer yang paling handal. Itu sekarang itu developer ya. Kalian tuh bisa enggak menjadi developer yang
+1.21.08
+handal? Kalian tahu enggak eh demand-nya, needs-nya apa gitu, flow-nya
+1.21.14
+gimana? Itu yang harus kalian tahu sekarang. Tapi pelajari
+1.21.19
+eh software-software yang saya bilang ini. Eh, Python juga kalian pelajari sedikit tapi akan sangat terbantu dengan
+1.21.27
+AI juga sekarang. Bahkan istri saya ya yang tidak ada basis
+1.21.32
+ee teknik informatika sama sekali. itu sekarang sangat jago dengan Python,
+1.21.40
+jago menggunakan AI, tahu tahu workflow-nya.
+1.21.45
+Jadi dia membuat beberapa tools gitu untuk RF
+1.21.51
+data man ee untuk pembangunan RF tower itu radio frequency tower.
+1.22.00
+Nah, ini untuk memotivasi kalian gitu. New Zealand ini mungkin tidak setinggi
+1.22.07
+Swiss gitu, tidak setinggi eh ya beda sedikit dengan Australia dan
+1.22.12
+lain-lain. Akan sangat ee apa ya untuk kalian itu
+1.22.21
+mereka itu Mas membutuhkan banyak orang sebenarnya di sini. Karena masyarakatnya sendiri yang melanjutkan kuliah itu
+1.22.29
+sedikit di sini. mereka itu banyak ya lulus SMA kerja gitu. Ee karena blue
+1.22.35
+cololar itu bukan sesuatu yang hina di sini. Jadi kalian bisa kaya itu jadi kuli ya kuli bangunan itu kalian bisa
+1.22.41
+jadi kuli bangunan yang sangat kaya. Jadi menjadi
+1.22.47
+seorang ee bachelor di sini itu kalian dicari-cari gitu.
+1.22.54
+Jadi itu tuh kalian bisa lihat gajinya tuh. JS technician nih biasanya lulusan SMA atau diploma ini untuk ng sururvei
+1.23.00
+itu biasanya gajinya 550 juta per tahun sampai 700 juta per tahun itu JS analis
+1.23.07
+yang posisinya sekarang R50 juta sampai 950 juta per tahun gitu kadang-kadang
+1.23.13
+ada yang di atas R miliar per tahun gitu senior JIS itu segitu ya ya pokoknya
+1.23.20
+segitu ini merupakan salah satu karir yang sangat menarik ya, salah satu pilihan
+1.23.27
+karir kalian untuk mahasiswa Teknik Informatika dan
+1.23.32
+mahasiswa sistem informasi dan JS ini akan terus berkembang dan
+1.23.38
+akan semakin diperlukan gitu. Di Indonesia pun akan semakin diperlukan ketika kesadaran terhadap
+1.23.46
+man aset manajemennya semakin bagus maka orang Jayas akan semakin dicari.
+1.23.52
+Dan kalau di Selandia Baru tidak menutup kemungkinan kalian bisa menggunakan beasiswa atau kalian bisa langsung
+1.23.59
+mendaftar. Ada nama situsnya sik.co.nz.
+1.24.06
+Kalian bisa cari tuh lowongan-lowongan pekerjaan di sana yang harus kalian siapin itu
+1.24.13
+posisi tawar kalian sebagai orang asing tuh apa gitu. Kalau cuman lulusan universitas di
+1.24.21
+Indonesia, universitas ini lebih bagus gitu dengan grade rank yang ditinggi.
+1.24.26
+Apa gitu ee ee
+1.24.32
+yang bisa kalian tawarkan kepada mereka itu apa? Yang kalau saya yang bisa saya tawarkan pada saat itu adalah pengalaman
+1.24.38
+kerja saya gitu. Ee kalaupun kalian mau menjadi akademisi di sini, apa yang bisa kalian tawarkan?
+1.24.46
+Apa? penelitian-penelitian ee skill-skill kalian yang kalian punya
+1.24.52
+dari Indonesia tuh apa gitu. Jadi, balik lagi ke itu ee pelajari
+1.24.59
+semuanya yang saya sebutkan tadi. Ee perbanyak
+1.25.04
+ee pengalaman jangan pilih-pilih kerjaan. Kalian bisa masih bisa menjadi programer atau
+1.25.11
+menjadi ee JS analjaan.
+1.25.17
+utama kalian ee karena itu tadi ee bekerja itu sangat
+1.25.23
+penting untuk cash flow kalian sehingga kalian bisa mengembangkan diri itu bukan hanya soal belajar ya, kalian perlu dana
+1.25.30
+gitu. Komputer kalian, kalian mau beli ee laptop, mau beli baru, butuh uang.
+1.25.37
+Kalian mau dari mana uangnya mau pengembangan diri kalau kalian enggak mau bekerja atau pilih-pilih kan. Ee
+1.25.44
+sudah ee kayaknya sampai situ aja. Terima kasih. Kalau ada sharing dan
+1.25.52
+pertanyaan mungkin bisa kita
+1.25.58
+lakukan setelah ini. Asalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam warahmatullahi
+1.26.03
+wabarakatuh. Terima kasih ee kepada Bapak Widi atas pemaparan materi.
+1.26.11
+Dari pemaparan yang disampaikan kita dapat ee kita mendapatkan gambaran
+1.26.16
+mengenai peluangan karir di bidang GIS dan kebutuhan kompetensi di dalam
+1.26.21
+industri pada saat ini. Oke, selanjutnya ee kita akan memasuki sesi diskusi dan
+1.26.28
+tanya jawab. Bagi teman-teman yang ingin mengajukan pertanyaan ee dipersilakan
+1.26.34
+untuk mengunakan ee menggunakan fitur rus hand pada Zoom atau ee menuliskan
+1.26.39
+pertanyaan melalui kolom chat. Sebelum ee nanti sebelum menyampaikan
+1.26.45
+pertanyaan pun mohon di sebutkan dulu namanya terlebih dahulu.
+1.26.50
+Baik, ee kami buka sesi diskusi. Silakan bagi ee Bapak, Ibu dosen atau
+1.26.56
+teman-teman yang ingin mengajukan pertanyaan dipersilakan.
+1.27.22
+Ee jadi sambil menunggu ya ee saya
+1.27.28
+mau mengencore Kage juga untuk mahasiswa-mahasiswa mungkin juga dosen. Kami punya resourch
+1.27.34
+yang sangat besar ya mungkin dosen-dosen juga tahu rumah saya.
+1.27.39
+Kalian bisa gunakan peralatan-peralatan yang kami miliki. Grup konsultan kami
+1.27.44
+yang kami miliki itu punya alat-alat itu bisa digunakan terbuka sekali untuk mahasiswa dan ee
+1.27.54
+dosen-dosen dari UNIP gitu. Jadi kalau kalian ada misal mau
+1.28.01
+melakukan penelitian, ada project yang butuh selama peralatan itu tidak sedang
+1.28.07
+digunakan, kalian bisa pinjam
+1.28.16
+kedengaran. Oke, mungkin ee pertanyaan pertama dari saya sendiri, Pak. Ee, Bang, jadi ada
+1.28.23
+yang mau tanya, saya tanyakan nih, Bu. Jadi untuk tadi he ee Bang Hendirkan bilang ada konsultan
+1.28.29
+itu di imigrasi, sempat bekerja di konsultan imigrasi. Itu enggak saya itu bukan immigration analy
+1.28.38
+itu anis immigration itu bukan konsultan gitu. Ee saya di luar itu saya tetap
+1.28.46
+menjadi konsultan karena hal yang saya sukai itu bukan menjadi PNS di imigrasi pada saat
+1.28.53
+itu gitu. Hal yang saya sukai IT dan JS ya, terutama ya. Jadi saya tetap menjalankan
+1.29.01
+konsultan saya di luar itu gitu. Lumayan juga nambah income, enggak harus korupsi
+1.29.07
+kan sudah jadi PNS kan gitu kan. Ee lumayan juga itu saya dulu
+1.29.13
+termasuk rajin bolak-balik ke Bengkulu ya. Ongkosnya dari mana? Dari gaji yang
+1.29.19
+mati saya. Em ya lanjutkan lagi apa
+1.29.25
+ketika di imigrasi. Oh itu tadi apa yang ee Abang lakukan
+1.29.31
+dan juga untuk satu lagi yang e saya mention tadi itu selain gigis yang ada
+1.29.37
+di city care yang perusahaan Abang sekarang itu apa saja yang bagian ada di bidang IT Bang? Kira-kira mungkin
+1.29.45
+teman-teman atau saya sendiri mungkin belum mahir di GIS kira-kira kalau di
+1.29.50
+City Care itu apa aja yang ee dapat di bidang?
+1.29.55
+Kalau sekarang ini ya yang populer itu ya
+1.30.01
+kayak sistem ee cloud kayak Azur gitu. Ee oh
+1.30.08
+ya satu lagi mungkin tapi lebih ke bisnis kayaknya ya. Di sini banyak
+1.30.14
+orang-orang itu mencari yang mahir Power BI.
+1.30.19
+Eh, kalian saja itu Power BI itu untuk bisnis analis dia mirip spreadsheet,
+1.30.24
+mirip Excel tapi lebih kompleks gitu.
+1.30.30
+Terus IT FMI ya. Kalau IT-nya sendiri ya
+1.30.35
+IT secara general lah yang kalian melakukan maintenance ee terus membangun
+1.30.42
+beberapa aplikasi simpel-simpel. E saya share screen dulu saya bisa share ee beberapa
+1.30.49
+yang kami gunakan di sini.
+1.30.58
+Oke. Kayak kayak misalnya saya buka dulu biar enggak buka saya
+1.31.06
+kebuka. emm
+1.31.14
+yang bisa kalian ya kayak pengembangan-pengembangan
+1.31.24
+ee sori ah ee ya orang IT di sini
+1.31.33
+pengembangan aplikasi berbasis web kayaknya sangat diperlukan bukan ya sama
+1.31.39
+kalian tuh harus tahu. Bahkan saya pun ya karena saya fokusnya ke JS saya tidak
+1.31.44
+terlalu paham dengan ee database-database terkinya kecuali
+1.31.50
+untuk JIS. Tapi ya seperti inilah. Ada yang ee memang ya kalian
+1.32.00
+pelajari itu Microsoft Inter eh Microsoft
+1.32.06
+Enterprise sebenarnya, tapi kayaknya enggak memungkinkan
+1.32.12
+juga kan karena kelihatan enggak ya yang saya share ini
+1.32.18
+ya? Ada namanya di sini.
+1.32.25
+Nah, ini apa yang kalian lihat kalau tulisannya IM itu ini. Nah, ini salah satu contoh aplikasi yang dikembangkan.
+1.32.31
+Jadi, ee bisa nyadi pengaduan. Oh, ini ada
+1.32.37
+pengaduan nih tentang aset di sini. Sini, sini. Oh,
+1.32.44
+itu enggak. Bentar saya share ya. Salah share.
+1.32.49
+Ee nah ini contohnya saya buat.
+1.32.59
+Nah, ini saya buat ee apa bukan saya yang buat. Ee mereka membuat aplikasi
+1.33.05
+ini untuk pengaduan ini. Saya dapat nomor pengaduan
+1.33.10
+ada di sini apa yang harus saya kerjakan. Terus komentarnya
+1.33.18
+di mana-mana lokasinya sebenarnya tidak.
+1.33.24
+Kalau masalah IT yang sangat advance ya
+1.33.30
+di Indonesia itu justru kayak industri marketplace e
+1.33.39
+perbankan itu sebenarnya lebih maju daripada di sini.
+1.33.44
+Ee di sini pokoknya kalian fokus aja dengan IT eh yang basic-basic ee
+1.33.52
+terutama di cloud computing ya eh sama database sini orang rata-rata
+1.33.58
+kalau nyari ya orang itu yang tahu paham dengan Microsoft Azure
+1.34.05
+ee FMI yang tadi saya cerita.
+1.34.11
+Jadi hampir hampir jarang untuk yang benar-benar pure
+1.34.18
+IT ya lebih kepada orang yang mengerti IT untuk enterprise gitu. Karena mereka
+1.34.26
+itu sudah punya sistem yang sudah dibangun bertahun-tahun gitu.
+1.34.32
+Jadi yang kalian perlukan itu nanti kalian buka aja. Saya tunjukin situsnya.
+1.34.40
+Ee sebentar. Jadi kalian buka di sini kalau mau
+1.34.47
+cari-cari info. Dan di sini enggak menutup kemungkinan terutama untuk
+1.34.53
+bidang-bidang karena apa? Apa kurangnya kita itu dari orang-orang India? Kenapa orang-orang
+1.35.00
+mahasiswa dari India dan istri saya tuh ada teman dari Sri Lanka, lulusan Universitas Sri Lanka gitu bisa bekerja
+1.35.08
+di sini gitu. Kenapa gitu? Apa yang kita kurang ya? Kita tuh
+1.35.15
+yang harus kita tingkatkan ya bahasa Inggris sih yang paling penting itu yang kalah kita dengan orang India. Orang
+1.35.23
+India itu bahasa Inggrisnya jago-jago gitu. Mereka enggak peduli sama logat
+1.35.28
+mereka. Ee yang penting mereka bisa ngomong. Mereka paling pintar ngomong.
+1.35.36
+Karir mereka lebih cepat kalau pintar ngomong. Itu yang harus kalian pelajari. Itu yang
+1.35.42
+just bahasa Inggris. Nah, ini kalian bisa lihat tuh kalian cari ini namanya S. Nanti di sana
+1.35.49
+ada misalnya kalian cari ya IT lah. Rata-rata IT itu
+1.35.58
+eh ya IT support mereka tidak akan orang luar ya.
+1.36.05
+Eh, saya IT system engineer
+1.36.15
+rata-rata yang mereka toate gajinya berapa
+1.36.21
+engineer ini yang paling dasar itu gajinya segitu itu
+1.36.27
+yang harus kalian pelajari itu
+1.36.32
+saya paling sering yang melihat tuh Azur ini. Tapi saya saya sendiri pun
+1.36.38
+baru-baru belajar ya. Kebetulan juga JJS enggak terlalu banyak digunakan itu cyber security yang jelas
+1.36.47
+orang sini sangat konsern dengan security. Jadi dulu pun saya di Indonesia. Nah, itu
+1.36.54
+yang penting bagi kalian. Dulu di Indonesia itu saya selalu berpikir ngapain beli laptop mahal gitu, tapi
+1.36.59
+spesifikasinya di bawah laptop gaming. Nah, itu orang Indonesia kan. Apa kelebihannya laptop yang lebih mahal ini
+1.37.07
+dibandingkan laptop gaming ini? Secara spesifikasi enggak gitu kan. Tapi enggak
+1.37.13
+di laptop-laptop itu pun menawarkan security yang lebih baik.
+1.37.19
+Jadi security itu penting cyber security ya di sini. Kalian mempelajari hal-hal itu kalau mau
+1.37.27
+berkecimpung di IT. Tapi kalau di CS ya tadi saya yang saya jelaskan tadi ya
+1.37.32
+semua yang ini PowerPoint-nya nanti bisa di-share oleh Asya itu itu ya itu
+1.37.38
+hal-hal yang penting itu kalian bisa cari nih dan jangan takut untuk mencari
+1.37.43
+ya. Saya berapa bulan yang lalu saya ya bukan orang IT tadi berapa bulan yang lalu
+1.37.50
+saya ada orang Indonesia sempat satu keluarga itu sempat di tempat saya karena saya banyak
+1.37.57
+ruangan kosong gitu ya sementara mereka ngeren 1 du bulan di sini itu dia guru
+1.38.05
+guru TK itu langsung dari Indonesia apply
+1.38.10
+dapat di sini apa itunya Ya, dan itu
+1.38.15
+sangat dibutuhkan kan karena sesuatu yang sangat dibutuhkan. Termasuk IT. IT dibutuhkan banget di sini karena orang di sini
+1.38.22
+ya gitu orang selalu melihat rumput sebelah lebih hijau bagi orang Selandia Baru Australia lebih hijau gitu.
+1.38.31
+Banyak yang lari ke sana gitu IT-itnya sehingga di sini banyak kekosongan. Kalian bisa mengisi tuh lihat kalau di
+1.38.37
+SIK itu Kakak lihat itu seberapa besar gitu. Nah, ini
+1.38.44
+ya yang IT yang berhubungan dengan bisnis bisnis automatisasi itu
+1.38.51
+lebih lebih dari JS malah. Em
+1.38.58
+ya yang harus kalian pelajari ya itu mastering
+1.39.03
+mastering Microsoft 365 ya kelihatannya spele gitu kan Microsoft
+1.39.11
+Word atau apa. Tapi kan mereka mempunyai banyak sistem terintegrasi kan di sana.
+1.39.18
+Kalau kalian menguasainya sangat-sangat baik gitu itu sangat berguna bagi
+1.39.23
+kalian. Kadang-kadang hal-hal kecil gitu kan kadang-kadang kita tuh
+1.39.29
+terlalu melihat jauh gitu. Kok saya mau jadi programmer yang sangat ahli
+1.39.34
+mengerti berbagai macam algoritma yang kompleks atau saya pengin jadi
+1.39.39
+mengembangkan AI. Ya, kalau realistisnya pelajari dari hal-hal yang terkecil
+1.39.45
+dulu. Jadi even eh ini ya office Microsoft
+1.39.51
+Office itu yang kalian anggap remeh-temeh itu sangat dihargai sini orang IT yang benar-benar benar-benar
+1.39.57
+menguasai bisa naik motor bisa naik mobil bukan berarti pengemudi yang baik ya tapi
+1.40.04
+kalian berusaha menjadi pengemudi yang baik berusaha menjadi pengguna yang baik
+1.40.09
+ya bisa memanfaatkan itu secara efisien ee jadi jangan Jangan terlalu melihat
+1.40.18
+ter jangan melihat terlalu jauh gitu. Ee ee
+1.40.24
+kuasai dulu dari hal-hal yang paling kecil. Kalau kayak saya ya saya kuasai ya JS
+1.40.31
+karena saya penginnya ke arah sana dari hal-hal yang kecil aja gitu. Kalau kalian terlalu banyak mempelajari gu ya
+1.40.39
+ee apa istilahnya itu eh
+1.40.45
+master of everything eh lupa saya ini kalian terlalu banyak yang kalian
+1.40.51
+pelajari mastering semua eh bukan mastering semua bisa semua tapi tidak ada yang benar-benar ahli ya [berdehem]
+1.40.58
+yang dari hal-hal yang kecil ya gitu sesimpel ya lihat ini
+1.41.05
+di situ samaran kerjanya sesimpel kalian
+1.41.10
+menguasai benar-benar Microsoft 365 gitu.
+1.41.16
+Tawaran gajinya segini. Jadi enggak usah kita muluk-muluk. Fokus
+1.41.25
+ya, fokus fokus belajar tentang ee
+1.41.31
+dan selebihnya apa fokus yang bisa kalian pilih itu bisa kalian lihat di sini. Rata-rata
+1.41.37
+ee ee yang digunakan di negara-negara ee maju ya
+1.41.44
+standarnya sudah seperti ini gitu. Kadang-kadang di Indonesia tuh standarnya terlalu tinggi ya. Terlalu
+1.41.52
+tinggi standar kita. Kalian bisa menjadi yang programmer yang
+1.41.59
+sangat-sangat ahli atau programmer yang punya banyak research.
+1.42.04
+Oh, ini ada pertanyaan, Pak. Tadi Bapak bilang kita harus cari tahu apa yang kurang dari kita. Tapi saya sering kehilangan diri saat membaca lowongan
+1.42.12
+dan jadi tidak mulai bagaimana Bapak membedakan syarat yang benar-benar wajib dengan yang masih bisa dikejar sambil
+1.42.21
+melamar. Ee ya itu tadi em
+1.42.26
+yang pertama Ahma terima kasih untuk pertanyaannya. Ee
+1.42.33
+yang penting itu sekarang ya kalau kalian sudah lulus atau biasakan ya
+1.42.40
+budaya ini bedanya budaya di Indonesia dengan di sini. Di sini tidak ada mahasiswa yang menganggur
+1.42.47
+kecuali dia mau fokus jadi ak misi kal. Tapi itu tidak menganggur juga. Mereka jadi asisten di lab. asisten dosen ee ee
+1.42.57
+kerja parttime di universitas gitu jangan sampai menganggur gitu sedari
+1.43.03
+kuliah jangan menganggur apapun pekerjaannya. Ee kalau kalian menguasai IT cari lowongan-lowongan yang butuh ee
+1.43.11
+IT walaupun mereka tidak membayar dengan harga yang tinggi tapi pengalaman itu
+1.43.17
+bisa jadi portfolio kalian ke depannya. Enggak usah saya dulu juga gini.
+1.43.24
+Awal saya ke sini itu saya enggak PD. Siapa sih saya gitu kan. Saya ini
+1.43.30
+dari Bengkulu gitu. Orang Indonesia e orang luar itu jangankan tahu Bengkulu
+1.43.37
+ya, tahu Indonesia Bali itu aja Indonesia atau bukan, mereka enggak tahu gitu. Mereka tahunya Bali itu negara
+1.43.43
+sendiri gitu. Terus saya lulusan Universitas Bengkulu.
+1.43.48
+Eh, tapi saya bangga dengan alamater saya sampai sekarang salah satu email saya tuh masih pakai npm saya G1A008024.
+1.43.59
+Oh, saya mikir saya minder. Oh, apa saya harus sekolah dulu ya gitu di sini ya.
+1.44.05
+Saya itu udah udah daftar master di Otago, sudah diterima kemarin master
+1.44.10
+cuman saya postpon gitu ee karena ada kerjaan di sini saya
+1.44.16
+pospon dulu mungkin akan saya lanjutkan tahun depan. Tapi enggak usah minder.
+1.44.21
+Awalnya saya minder. Awalnya saya minder sampai percaya diri itu timbul ketika
+1.44.26
+saya dapat wawancara. kamu sudah masuk orang sudah mau
+1.44.33
+mewawancara itu berarti sudah effort
+1.44.38
+untuk menyediakan waktunya gitu buat kamu. Berarti dia sudah tertarik
+1.44.43
+ketika kamu saat sampai ke tahap wawancara itu sudah bagus. Oh, berarti
+1.44.50
+setelah wawancara ini misalnya kamu enggak diterima dari sana kamu mengembangkan apa sih
+1.44.56
+yang kurang dari saya selama ini gitu. ee yang enggak ada syarat yang
+1.45.02
+benar-benar wajib ya. Ee
+1.45.07
+kalian juga bisa ini tips-tips dari istri saya kalau saya tuh enggak tahu saya tuh susah gitu saya enggak bisa
+1.45.13
+mengarang indah gitu. Tips dari dia ketika ditanya bilang kamu bisa gitu
+1.45.21
+perkara kamu mau belajar karena yang seperti saya mention tadi js pro gitu
+1.45.28
+Enterprise itu enggak akan kalian dapatkan gitu di kuliah universitas tuh enggak bisa dapatkan
+1.45.35
+software-software itu gitu. Bahkan di sini pun ada licens-licens itu tapi
+1.45.41
+terbatas. Jadi kalian enggak bisa mempelajari semuanya pada saat kuliah.
+1.45.46
+Apa yang harus PD aja yang penting kalian PD wawancara bilang, "Oh, kamu
+1.45.51
+bisa ini Microsoft bisa. Saya bisa, Pak, gitu. Saya bisa database ini, ini yang lain-lain." Tapi saya misalnya saya di
+1.45.59
+sehari-hari saya menggunakannya cloud yang ini loh, bukan yang Azur gitu. Tapi saya bisa kok, saya
+1.46.06
+bisa catch up. I can catch up with everything. I eh I'm confident with myself and I can
+1.46.14
+catch up with the knowledge that you need me to know for this company gitu.
+1.46.21
+Saya bisa catch up, saya bisa mengejar ketertinggalan saya gitu gitu. Yang
+1.46.27
+penting itu karena kadang-kadang memang syarat di pekerjaan itu terlalu
+1.46.32
+muluk-muluk ya. ee terutama untuk di Indonesia karena kita sendiri akses kita terhadap
+1.46.38
+software-software industri itu sangat susah gitu. Yang harus kalian lakukan
+1.46.44
+yang penting kalian percaya diri dulu bohong sedikit bohong sedikit gitu bilang bilangnya kalian bisa gitu nanti
+1.46.52
+bisa kalian pelajari. Percaya istri saya itu waktu ditanya laman kerja, "Kamu bisa Python?" Bisa enggak?
+1.46.59
+Bisanya yang pas udah kerja gitu, kalian punya AI sekarang. Kelebihannya dari
+1.47.04
+zaman saya memulai berkarir itu kalian punya AI. Kalau saya itu bisa bisa tapi
+1.47.11
+saya bisa sebulan saya pelajarin itu sampai saya bisa gitu. Kalau sekarang
+1.47.17
+kalian punya AI misal kalian tanya bilang bisa dulu bisa nanti kalian benar-benar bisa loh. Sekarang dia
+1.47.23
+kayaknya mahiran dia python daripada saya gitu padahal dia enggak ada basic basic IT sama sekali. Jadi semua di
+1.47.33
+lamaran di lamaran kerja itu penting ya kalau di luar negeri ya. Saya enggak tahu di Indonesia karena saya karir saya
+1.47.41
+punya konsultan sendiri gitu. Saya kerja juga di pemerintah waktu itu. Jadi saya enggak tahu ee scop-skop industri itu
+1.47.49
+lamarnya gimana. Tapi yang penting kamu percaya diri dulu, kamu bilang bisa dulu, nanti bisa kamu pelajari
+1.47.55
+belakangan. Karena enggak semua akses itu bisa kamu dapatkan sekarang di universitas.
+1.48.01
+Izin. Oh ya, ini dari Aisyah. Izin bertanya, "Pak, teknologi JS apa yang sudah ada di sana yang nanti kemungkinan
+1.48.07
+akan ada di Indonesia?" Sebenarnya semuanya sudah ada di Indonesia. Kalau kalian ngikutin, ya. Justru penggunaan
+1.48.14
+drone itu lebih fancy di Indonesia. Di Indonesia itu perputaran uangnya lebih besar daripada di Indonesia. Yang
+1.48.20
+membedakan adalah upah tenaga kerjanya gitu. Orang sini berusaha untuk
+1.48.27
+seadil-adilnya gitu. Mereka tidak mencari keuntungan sebesar-besarnya. Di sini cuma 5 juta penduduk, pasarnya
+1.48.33
+kecil. Jadi kadang-kadang teknologi justru lebih kayak teknologi drone ya.
+1.48.39
+drone yang digunakan sini ya level-level enterprise kayak dimris
+1.48.46
+harga 100 jutaan di Indonesia itu petani itu juga sudah pakai drone sekarang kan
+1.48.53
+ee di penyedia layanan drone sekarang mereka sudah pakai drone vital yang bisa
+1.49.02
+vertical take off tapi bisa jadi pesawat juga dan di sini saya lihat masih jarang
+1.49.09
+ya karena mereka juga lebih konsern ke efisiensi karena membayar upah tenaga
+1.49.15
+kerjanya besar. Ee justru di Indonesia tuh bukan tidak ada, kita tidak tahu
+1.49.23
+karena kita belum di industri itu GPS Geodetik itu sudah banyak yang ahlinya. Kalau kalian search di YouTube
+1.49.31
+apa-apa tutorialnya akan sangat banyak dari orang Indonesia. teknologinya sudah ada, tapi apakah di Bengkulu sudah
+1.49.38
+sampai, di UNIT sudah sampai belum? Nah, itu justru kadang-kadang teknologi di
+1.49.44
+Indonesia itu lebih ini. Tapi kurangnya di Indonesia kita tidak bisa memanfaatkan teknologi
+1.49.50
+itu dengan efisien. Eh, egoistik
+1.49.56
+antara instansi itu masih sangat tinggi. Tidak mau datanya bercampur,
+1.50.02
+datanya sangat rahasia, gitu. Tapi teknologi-teknologi itu sudah ada,
+1.50.07
+Om. Saya di Badan Informasi Geospasial itu ee kalau kalian cari namanya Ibnu
+1.50.15
+Sofyan. Ibnu Sofyan itu sekarang salah satu deputi. Deputi itu kalau di
+1.50.20
+kementerian Dirjennya di Badan Informasi Geospasial.
+1.50.26
+Dia S1 sampai S3 di Jepang. Doktor dia di ini
+1.50.33
+Today, Today lulusan Today Tokyo University
+1.50.39
+yang terbaik dan teknologi yang dia kembangkan di badan informasi geospasial
+1.50.45
+itu sangat advance menurut saya malah dibandingkan di sini.
+1.50.51
+Saya bertahun-tahun lalu sudah tahu dia mengembangkan itu. Tapi apa yang kurangnya dari Indonesia itu egois
+1.50.57
+antara instansi itu enggak mau sharing data. Makanya kalian bisa buka JS eh BIG itu
+1.51.04
+Badan Informasi Geospasial itu sudah punya portal badan informasi geospasial. Di sana
+1.51.09
+kalian bisa download beberapa data spasial. Nanti kalau kalian mau belajar untuk kayak data administrasi bahkan
+1.51.16
+mereka bagikan digital elevation model. Ada juga beberapa citra resolusi tinggi
+1.51.21
+yang gratis di sana, tapi kayak yang saya cerita t batas tanah dan lain-lain,
+1.51.29
+mana mau kan ada kepentingan sendiri-sendiri. Itu yang masih kurang di Indonesia. Kalau teknologi Indonesia
+1.51.36
+enggak kalah, percaya sama saya. Kecuali pertanian. Petani Indonesia itu bukan karena tidak
+1.51.44
+mau menggunakan teknologi, karena tidak ada uangnya untuk menggunakan teknologi. Tapi sekarang sudah banyak mulai petani-petani muda di-support
+1.51.51
+menggunakan drone yang canggih untuk pemupukan pertanian. Nah, kalian juga bisa masuk gitu belajar. Belilah drone.
+1.52.00
+Kalau ada uang enggak usah upgrade iPhone terus coba beli drone gitu. di
+1.52.06
+drone kalian belajar eh areal mapping menerbakkan drone dengan
+1.52.12
+benar gitu punya license kalau ada uangnya nanti di pertanian pun akan
+1.52.18
+sangat digunakan di Indonesia. Izin e Fatia izin bertanya, Pak. Dari
+1.52.25
+pemaparan tadi, cloud computing cukup sering disebutkan. Namun, saya masih belum begitu memahami penerapan secara
+1.52.31
+langsungnya dan apa peran cloud computing secara spesifik dalam dunia industri. Apalah. Oke,
+1.52.38
+langkah untuk pelajari. Eh, kalau di industri saya
+1.52.45
+plad computing ya, Js banyak ke
+1.52.51
+data manajemen, kemudian ada web maps-nya yang bisa diakses dari mana
+1.52.57
+saya. sebentar saya ada mengembangkan saat
+1.53.03
+sedang saya bukan saya sedang mengembangkan saya sedang proof of
+1.53.13
+konsep ya proof of concept dari
+1.53.18
+JS experience builder. Jadi saya sedang ee
+1.53.25
+mengetak-ngatik ya ini W-nya ee bentar
+1.53.33
+kelihatan kan ya. Jadi ini semacam web apps
+1.53.40
+ee cloud cloud computing yang
+1.53.46
+eh terhubung juga dengan portal JS saya.
+1.53.52
+Not not not that eh complicated road computing yang kita bayangkan. Eh karena
+1.53.59
+JS itu ada beberapa yang lebih simpel yang saya butuhkan sekarang yang simpel. Saya tidak bisa mencontohkan ada
+1.54.08
+eh computing yang lebih advance lagi, tapi itu di projectnya istri saya. Tapi
+1.54.17
+saya akan ee tunjukkan ee fungsi cloud
+1.54.22
+yang sebenarnya sekarang. Misalnya ini saya ah saya tidak bawa laptop, saya pergi ke klien
+1.54.29
+ee atau saya dengan partner saya. Oh, dia lihat di sini ada taman.
+1.54.35
+Mm saya punya ee saya mau taman ini diambil loh datanya.
+1.54.42
+Ee oke, kita tandain dulu secara kasar di sini misalnya
+1.54.50
+ee sama fungsinya dengan js. Kalau kalian
+1.54.56
+sudah belajar LJS ee pasti mengerti maksud saya karena sama ini ada yang
+1.55.01
+sudah membuat bisa digitasi tapi semuanya tidak terhubung dengan data
+1.55.07
+kalian ke desktopnya. Ini saya simpan. Eh,
+1.55.14
+oke saya akan buka ad saya
+1.55.20
+ini desktop aplikasinya. Bentar saya share lagi.
+1.55.26
+Oke, saya buka adisnya.
+1.55.36
+Oke, sori. Hm.
+1.55.43
+saya buka data saya tadi.
+1.55.51
+Saya juga masih kecap ya dan belajar
+1.55.56
+cloud otomatisasi ee portal
+1.56.02
+itu ee server dan lain-lain yang dulu di
+1.56.07
+Indonesia itu saya enggak bisa pelajari karena keterbatasan resource.
+1.56.13
+Nah, data yang saya buat tadi sudah muncul di sini.
+1.56.19
+Semua terintegrasi gitu. Saya bisa mengerjakannya secara cloud. Kemudian di
+1.56.25
+rumah untuk editing yang advance saya bisa melanjutkan dengan js gitu. Nanti
+1.56.31
+dijs nanti kalau kalian belajar ada di bagian edit kan dia edit edit verti-nya
+1.56.38
+resave segala macam. Terus begitu kalian edit di sini kalian tutup atau ini
+1.56.44
+contohnya saya ee enggak pakai mouse ini jadi saya enggak ngedit-ngedit dulu
+1.56.52
+prosesnya akan lebih lama enggak saya delete di sini
+1.56.57
+misalnya saya edit dulu edit ni saya delete gitu atau saya edit
+1.57.04
+lah tapi saya ini contohnya saya delete aja oke saya save datanya Ya,
+1.57.10
+saya tutup lagi. Ee
+1.57.21
+no enggak usah. Karena itu database database pekerjaan saya tadi
+1.57.28
+karena sudah cloud gitu. H
+1.57.35
+semuanya sudah cloud. Jadi ketika saya buka lagi di
+1.57.41
+web web maps yang sori dari web ee ke webmaps yang saya kembangkan tadi
+1.57.49
+semuanya akan terintegrasi.
+1.57.55
+Sori saya saya skat share lagi screen-nyanya.
+1.58.00
+Oh, oke. Ini balik lagi ke web yang saya kembangkan tadi. Sudah datanya sudah
+1.58.06
+hilang lagi. Kadang semuanya sudah cloud gitu dan saya bisa kerjakan di manaun ee
+1.58.13
+untuk situasi-situasi yang urgen yang saya tidak misalnya ini bisa saya buka di HP.
+1.58.20
+Bahkan saya ada versi mobile-nya tapi saya enggak bisa tunjukkan. Sekarang
+1.58.25
+saya melakukan survei gitu. saya menggunakan mobile apps-nya, saya di ee
+1.58.31
+ambil titik di lapangan, digitasi, kemudian prosesnya bisa saya lanjutkan
+1.58.37
+di rumah secara simless. Jadi sebenarnya intinya cloud itu ya semuanya tersimpan
+1.58.45
+di cloud. ee bisa kalian yang kerjakan
+1.58.50
+juga secara online gitu. Kalian punya web apps sendiri gitu dan kalian juga bisa
+1.58.57
+kerjakan lagi dengan aplikasi yang ada di desktop kalian simless tanpa harus
+1.59.03
+pindah-pindah data pakai kabel USB. Enggak zaman lagi sekarang.
+1.59.09
+Ee hal-hal apa? hal-hal seperti itulah yang sebenarnya kita tertinggal gitu
+1.59.18
+ee dari negara luar. Kalau bukan tertinggal ya
+1.59.24
+mungkin kita tidak tahu gitu. Ee mungkin di tempat lain sudah
+1.59.32
+banyak cuman kita tidak tahu karena kita tidak punya akses ke sana. Saya juga
+1.59.39
+sebelumnya JS saya pengetahuan saya sebatas saya
+1.59.44
+mengumpulkan data, mengolahnya, digitasi ee pengolahan citra misalnya saya
+1.59.51
+mengukur ee kontur dan lain-lain, tapi bagaimana
+1.59.57
+bekerja secara simless gitu. ee semua datanya terintegrasi di cloudah
+2.00.05
+cloud pekerjaan di Indonesia ya memalukannya itu cloud kita masih
+2.00.10
+sepanjang sharing OneDrive dan Google Drive sangat tertinggal kita kok gitu. Kalau
+2.00.17
+data saya tadi sudah close semua gitu, saya enggak perlu gitu buka lagi copy
+2.00.23
+manual ke komputer gitu dan seess gitu enggak ada loading, enggak ada apa gitu.
+2.00.30
+Jadi teknologi cloud yang seperti itu gitu yang sudah sangat diperlukan dalam industri.
+2.00.37
+Eh, balik lagi keterbatasan
+2.00.42
+budget di Indonesia, keterbatasan resources.
+2.00.47
+Makanya ee kalau kata istri saya itu bohong dulu. Kamu masuk dulu ke industri nanti kamu belajar di sana. Bilang, "Oh,
+2.00.55
+saya bisa, Pak." gitu. "Saya tahu cloud gitu ya." "Kamu tahu orang IT mana yang
+2.01.02
+enggak tahu cloud sekarang kan?" ya saya tahu gitu saya tahuin saya beres
+2.01.07
+tahu masuk sana ya kamu belajar gitu gitu
+2.01.13
+mungkin ada lagi baik Bapak ee mungkin ee untuk
+2.01.19
+teman-teman yang ada di sini bisa dulu mengisi absensi
+2.01.24
+yang ada di kolom komentar ada link absensi mungkin pertanyaan
+2.01.30
+terakhir dari saya sendiri Bapak jadi ee ee kan yang kita yang disampaikan
+2.01.37
+tadi bisa dikatakan itu sudah ert kan ya. Jadi kalau untuk mahasiswa yang baru
+2.01.42
+mulai digis kira-kira untuk ee freelance atau ya nyari tipis-tipis uanglah
+2.01.49
+kira-kira untuk ee apa yang bisa dilakukan di G ini kayak ada projject pribadi atau seperti apaak untuk ee
+2.01.57
+awal-awal kira-kira Pak nanti ya nanti kalau ada yang
+2.02.03
+benar-benar berminat ee salah satu teman kalian sudah punya kontak saya itu Kia
+2.02.10
+ee ee Richard saya kami punya beberapa mudah-mudahan ada
+2.02.17
+yang melanjutkan ya karena orang tua saya juga sudah pensiun dari UNIT tahun depan gitu tapi ada dosendosen lain yang
+2.02.26
+di tim kami yang dekat yang akan melanjutkan projek kami ke depannya
+2.02.31
+nanti kalian bisa belajar kalau kalian berminat di GIS. Karena kami selama ini sangat
+2.02.36
+menyayangkan kok orang TI saya nanya orang TI itu mana gitu kok
+2.02.45
+enggak pernah ada di pro kita nih kata saya tuh kadang-kadang maksud ini fokus
+2.02.50
+gitu e fokus kuliahnya gitu saya banyak loh ee
+2.02.56
+mengambil dari teknik sipil gitu dari pertanian
+2.03.03
+Em dan ya untuk mereka belajar itu resource saya
+2.03.11
+ee saya punya banyak resource gitu dan kalau kalian berminat nanti bisa ikut
+2.03.17
+beberapa project saya tentunya enggak bisa semua orang mungkin beberapa orang saya biasanya kami bisa hire sampai 20
+2.03.26
+mahasiswa gitu nanti rekan dari Bu Ari aja ya.
+2.03.31
+Oke, [tertawa] siap yang green flag.
+2.03.38
+Siap. Oke, ini ada dari Rahma. Masih enggak pertanyaan dibuka? Izin bertanya, Pak.
+2.03.44
+Untuk orang dengan basis machine learning di industri JS, mana skill itu yang paling dibutuhkan dan seperti apa
+2.03.51
+pekerjaan sehari? Nah, ini yang baru saya bahas tadi dengan istri saya. Jadi
+2.03.57
+di tight communication eh mereka itu melakukan
+2.04.02
+pengecekan dengan route gitu. Ee pengecekan untuk
+2.04.08
+radio frekuensi. Jadi menemukan blind spot-blind spot dari frekuensi
+2.04.15
+radio komunikasi ini di mana aja itu semuanya menggunakan machine learning.
+2.04.20
+Kebetulan di perusahaan saya tidak menggunakan banyak machine learning karena sudah ada
+2.04.26
+enterprise system yang dibangun. Tapi di sana mereka sudah membangun.
+2.04.31
+Ee nanti bisa share juga eh dengan istri saya bagaimana penggunaan machine
+2.04.38
+learning itu di GIS. itu sangat penting machine learning eh automatization terus
+2.04.48
+em jadi mempelajari rute-rute mana aja yang harus kita
+2.04.55
+ambil ee supaya kita bisa menentukan dengan tepat eh blotbot frekuensi radio
+2.05.02
+itu mereka menggunakan machine learning semua dan itu sekarang dikerjakan kan dengan
+2.05.10
+beberapa engineer di sini ya termasuk istri saya.
+2.05.18
+Jadi ee banyak sekali ya kebetulan pekerjaan
+2.05.24
+saya tidak membutuhkan tapi banyak sekali terutama kalau kalian melihat lamaran yang mereka menggunakan QJS itu
+2.05.33
+biasanya mereka akan mengembangkan sistem sendiri. Eh, kadang-kadang mereka perlu machine
+2.05.38
+learning karena RJS itu sendiri secara software terbatas.
+2.05.43
+Mereka punya limitasi, mereka praktis, mereka bisa mencakup
+2.05.50
+kebutuhan JS yang sangat luas, tetapi mereka punya keterbatasan.
+2.05.55
+Tapi QJIS itu tidak punya batasan. ee limitnya itu adalah diri kita sendiri
+2.06.03
+gitu, bagaimana mengembangkan software tersebut gitu. itu
+2.06.09
+salah satu project open source JS yang paling gila ya QJS itu dan mereka
+2.06.14
+menggunakan machine learning itu dengan menggunakan QJS pengembangannya Python ya juga terutama eh bahasa program yang
+2.06.23
+digunakan mereka Python ya dan itu dari yang tidak kalian sekarang itu tugas
+2.06.29
+kalian itu mengerti flow kerja apa yang dibutuhkan
+2.06.35
+needs ee terus ee workflow-nya semuanya bisa dibantu dengan
+2.06.42
+ee ini apa? AI. Jangan cuma AI sayang AI itu kalau tokennya cuma dibuat generate
+2.06.48
+image dan video gitu. Jadi kalian manfaatkan itu
+2.06.54
+AI itu sebaik-baiknya gitu untuk membantu kalian dalam pengembangan
+2.07.01
+software JS ini. Oke,
+2.07.06
+ada lagi?
+2.07.13
+Eh, dan saya mention lagi, jangan segan-segan kontak saya jika kalian
+2.07.19
+butuh peralatan. Karena itu memang kami hanya menjaga tapi kami
+2.07.25
+mendonisikannya untuk kebutuhan Universitas Bengkulu supaya bisa digunakan untuk bisa melakukan
+2.07.31
+penelitian di bidang JS dan lain-lain. Kami punya total station, kami punya
+2.07.39
+eh GPS ATK yang bisa kalian gunakan yang bisa terhubung dengan stasiun koreksi
+2.07.46
+dan sangat akurat itu mil bahkan akurasinya sampai milimeter. Ee kemudian kami punya drone
+2.07.54
+ee bisa dipinjam walaupun drone-nya belum saya belum yang terbaru ya, tapi
+2.08.01
+saya punya license untuk drone link untuk eh
+2.08.07
+apa? flight plan. Jadi kita itu kalau mauembuat pemetaan udara itu enggak bisa
+2.08.12
+sembarangan nerbangin drone-nya. Dia harus tahu sudut-sudut ee pengambilannya
+2.08.18
+harus tepat. ee jarak antara fotonya harus tepat. Nah, itu saya ada software
+2.08.25
+flight plan-nya namanya drowning. License-nya ada itu bisa digunakan juga.
+2.08.31
+Jadi, jangan segan-segan kontak e rumah saya dekat dari Universitas
+2.08.37
+Bengkulu. Kalian bisa datang nanti mungkin bisa konsultasi juga ee dengan
+2.08.44
+ayah saya ee terkait J dan penelitian apa di bidang JS dan beliau sangat
+2.08.50
+senang waktu saya bilang, "Oh, saya mau develop ini nih ekosistem untuk JS kita
+2.08.56
+gitu." Jadi jangan kita enggak tergantung lagi sama itu ya yang seperti saya lihatkan tadi. Jadi enggak enggak
+2.09.02
+ada lagi itu yang namanya kita mindah-mindahin data dari drone. Eh kalau dari drone masih ya karena datanya
+2.09.08
+mungkin in the future bisa. Eh untuk sekarang masih enterprise level ya untuk
+2.09.15
+eh sistem cloud-nya. Tapi kalau data spasial seperti poligon
+2.09.23
+hanya poin atau hanya line itu semua sudah simless sekarang semua sudah cloud
+2.09.29
+seperti yang saya tunjukkan tadi saya bisa ngerjainnya di web apps saya gitu saya buka di js desktop saya udah ada
+2.09.36
+datanya di sana gitu yang saya gambar tadi sudah muncul di HP saya punya field
+2.09.42
+maps atau saya punya software saya kembangkan sendiri saya ee ee ke lapangan ambil titik ee digitasi di
+2.09.50
+lapangan secara kasar. Ee kemudian saya semua data itu ketika saya di rumah saya
+2.09.56
+bisa olah lebih detail lagi di aplikasi desktopnya.
+2.10.03
+Ee jadi jangan segan-segan
+2.10.08
+lakukan. Terutama kalian punya Ibu Ari. Ibu hari ini dia mendalami remote sensing gitu. Itu
+2.10.18
+perlu kalian tuh ee karena apalagi zaman sekarang terbantu dengan AI, kalian bisa
+2.10.25
+klasifikasi tanpa digitasi. Oh, saya mau klasifikasi lahan sawit ya
+2.10.30
+biar kalian bisa jadi komisaris.
+2.10.36
+T klasifikasi lahan sawit gitu. ee dengan menggunakan citra satelit
+2.10.42
+resolusi tinggi. Masa masih gambar manual 12,9 juta
+2.10.48
+hektar. Kalian mau gambar manual gimana? Kalian lakukan kan dengan remote sensing kalian melakukan klasifikasi secara
+2.10.56
+otomatis eh sehingga nanti terbentuk poligon-poligon yang
+2.11.01
+sudah menakkan oh ini kebun sawit gitu gitu. Kalian punya ahlinya kok.
+2.11.08
+di UNI kalau dulu belum ada Ibu Ari belum S3 dulu ahli remote sensing-nya
+2.11.14
+belum ada saya bisa remote sensing tapi mungkin
+2.11.20
+belum sedalam beliau belajar saya masih untuk keperluan proek saya tapi kalian perlu belajar itu semua harus otomatis
+2.11.28
+sekarang apalagi kalau di luar negeri enggak ada yang mau membayar kalian kerja 8 jam cuma menggambar poligon
+2.11.36
+20 biji gitu tu dengan membayar kalian se jamnya Rp500.000 enggak ada
+2.11.43
+gitu. Lanjut Akbar apa
+2.11.49
+ada pertanyaan tadi dari Jeri Putrajaya mungkin tadi dia mau bertanya pada Ji Putrajaya dipersilakan mau nanya.
+2.11.55
+Oke ya. Oke. Ee baik terima kasih Bang ee sebelumnya perkenalkan Pak nama saya
+2.12.01
+Jerry Putrajaya PM 2 angkatan 2025. Jadi kan ee tadi Bapak sempat ee menyinggung
+2.12.09
+tentang AI dan kita harus bisa menggunakan AI dan berdasarkan hal tersebut, Pak ee
+2.12.15
+bagaimana bentuk pemanfaatan AI ini ee yang ee untuk digunakan dalam bidang GIS
+2.12.23
+tadi, Pak. Dan menurut ee Bapak, menurut Bapak kemampuan AI seperti apa yang
+2.12.29
+mungkin ee yang dicari atau menjadi nilai tambah ee untuk lulusan IT untuk
+2.12.36
+masuk ke bidang industri ini, Pak? Oke,
+2.12.42
+terima kasih untuk pertanyaannya. Eh, Jerry eh AI ini sangat-sangat membantu ya. Jadi
+2.12.50
+seperti yang saya ceritakan tadi dari istri saya tidak bisa sama sekali pyon. Kemudian sekarang dia mdevelop banyak
+2.12.56
+tools untuk otomatisasi dari sesimpel membuat laporan. Jadi
+2.13.03
+kalau kalian nanti mempelajari JS tuh ada future field-nya. Jadi yang luas
+2.13.09
+berapa, terus nama misalnya lahan pemiliknya siapa dan lain-lain itu kalau
+2.13.14
+kalian tidak ada otomatisasi yang kalian lakukan saya kalian harus meng-copy semua di laporan satu persatu gitu kan.
+2.13.22
+Tapi dengan eh AI dia men-develop ee
+2.13.27
+bagaimana database-nya JS ini eh
+2.13.34
+seat-nya database ini eh seat-nya JS ini eh
+2.13.39
+bisa langsung dimasukkan ke dalam laporan tadi. Jadi gak perlu lagi dia
+2.13.45
+memindahkan laporan sesuatu dan itu semua otomatisasinya dia kembangkan menggunakan I. Saya juga sekarang
+2.13.51
+dibantu sesimpel ini ya. Saya tuh mungkin kalian lebih
+2.13.58
+lihat daripada saya untuk mengembangkan home server. Saya membangun home server saja semua tahapannya saya tanya EA
+2.14.05
+lagi, "Oh, kamu ee saya ingin ini ee membangun home server untuk JS gitu."
+2.14.12
+Saya tanya di AI, "Apa sih yang saya butuhkannya? Apa aja?" Oh, dia kasih tahu ada yang namanya dokter. Terus
+2.14.19
+kalau saya IP-nya publik, saya harus bagaimana dan lain-lain ini semua saya
+2.14.24
+dibantu AI dalam mengembangkan home server saya. Karena saya tidak sudah
+2.14.30
+lama tidak update kan. Sekarang saya sedang dalam tahapan itu berap AI
+2.14.35
+menjelaskan itu semua. Ee kemudian tahap lanjutnya AI membantu kita yang seperti
+2.14.41
+saya cerita istri saya itu membantu kita. kita tuh kadang-kadang
+2.14.47
+sekarang itu mahasiswa IT itu bisa coding okelah kalian harus tahu gitu tapi tidak mesti ahli yang kalian harus
+2.14.55
+tahu tuh flow-nya gimana bekerja AI itu akan membantu kalian kalian tuh
+2.15.00
+tahu flow-nya flow itulah yang jadi prom itu yang akan jadi coding kalian gitu
+2.15.08
+yang nanti akan kalian copy gitu yang akan kalian itu. kan ada AI sekarang
+2.15.13
+yang bisa membantu kalian membuat user interface yang bagus gimana. Jadi
+2.15.21
+jadi mahasiswa IT sekarang saingannya banyak karena orang biasa bisa jadi. Tapi untuk bisa mengerti flow itu tidak
+2.15.30
+semua orang mengerti flow pekerja itu dan kelebihan [berdehem] yang harus kalian punya itu di situ flow yang
+2.15.36
+dibutuhkan untuk yang mau kalian bangun. Ya, kalau saya konteksnya di sini GIS
+2.15.42
+yang saya perlukan sini saya tanya dengan ee dengan EAI itu bisa enggak sih
+2.15.48
+kita enggak tergantung saya mau membangun sesuatu agar saya tidak tergantung dengan JIS Enterprise ini
+2.15.53
+karena saya sudah tahu kan cara kerja RJS Enterprise gimana saya jelaskan eh
+2.15.59
+saya mau menggantikan web maps-nya gimana aplikasi desktop yang harus saya
+2.16.06
+gunakan gimana dia menyarankan saya menggunakan QJIS yang kemudian dikembangkan sendiri ee menggunakan
+2.16.14
+Geopanda, Pos JIS, POR SQL dan lain-lain. Jadi AI
+2.16.20
+akan sangat membantu dalam hal itu. Dari yang kita tidak tahu jadi tahu, jadi
+2.16.28
+yang kita tidak bisa jadi bisa. Ee batasan AI sekarang diri kita sendiri
+2.16.34
+gitu. Jadi bagaimana pemahaman kita tentang suatu pekerjaan? Itulah yang jadi
+2.16.39
+batasan AI yang sekarang. AI sekarang sudah sangat canggih. Yang sekarang kalau kita sayang sayang sekali
+2.16.46
+kalau dulu saya 5 tahun yang lalu saya orangnya anti. Sebagai orang IT saya
+2.16.53
+terancam gitu. Udahlah saya waktu kuliah enggak pintar-pintar banget gitu
+2.16.58
+coding gitu kan mau dilawan juga sama AI gitu. Nah, sekarang tuh saya mulai ee terbuka
+2.17.07
+ee oh saya mengerti saya membantu ini loh dari yang kita orang yang tidak bisa
+2.17.12
+pun bisa gitu. Yang penting kamu tahu cara flow kerjanya. Cara tahu flow kerja
+2.17.18
+apa? Mulailah kamu bekerja, masuk industri ee
+2.17.24
+tetap fokus kuliahmu, tapi mulailah bekerja gitu. Apapun itu. Nanti kalau
+2.17.30
+kami ada project, Ibu Ari ada project, kalian bisa ikut project Ibu Ari gitu.
+2.17.35
+Dari sana kalian bisa belajar. Kalau enggak resource kalian dari mana? Ibu Ari punya drone yang masa kalian mau
+2.17.42
+beli drone sendiri gitu kan. Kecuali kalau ada banyak duitnya ya enggak apa-apa.
+2.17.49
+Kayak kalau punya sesimpelnya kalian punya iPhone aja gitu, kalian punya
+2.17.54
+iPhone seri pro gitu, cobalah kayak kalian belajar cara pengembangan rider
+2.17.59
+sensor itu penggunaannya gimana gitu. itu bisa kalian tanyakan di sama EA itu.
+2.18.06
+Jadi, leather sensor itu misalnya kalian melakukan ee pematahan gedung teknik gitu kan
+2.18.14
+menggunakan rider sensor yang kemudian eh yang kalian kembangkan itu post
+2.18.19
+processing-nya. bisa enggak kalian menggunakan open source yang sudah ada gitu eh untuk mendukung post processing
+2.18.27
+dari lighter ini hasil yang kalian dapat dari kamera iPhone ini dan itu semua
+2.18.33
+bisa di ee dibantu AI dan kalian hanya perlu tahu prosesnya dan apa yang kalian
+2.18.39
+output apa yang kalian butuhkan gitu. Saya mau
+2.18.44
+J ini output-nya kayak gini. Saya mau saya bisa digitasi yang sesungguhnya di
+2.18.50
+web maps. Jangan digitasi digitasi palsu gitu ya. Membuat oh seolah-olah ada di
+2.18.57
+sini poligon ya. Tapi pas dibuka datanya enggak ada poligonnya gitu kan. Cuma di webmap-nya aja untuk apa gitu. yang
+2.19.05
+kalian tuh harus tahu tujuan kalian mengembangkannya itu apa gitu dan a bisa menolong itu
+2.19.14
+ya gitu sih ya mungkin ada lagi ada tambahan gitu.
+2.19.22
+Baik, mungkin Bapak, Ibu, dan Teman-teman sekalian ee demikian sesi
+2.19.29
+dan tanya sesi dan tanya jawab kita pada hari ini. Ee sebelum itu mungkin kita
+2.19.34
+akan memilih dulu ee audiens yang paling aktif.
+2.19.40
+Ee jadi untuk audiens yang paling aktif ee yang terpilih itu Jerry Putrajaya
+2.19.47
+dengan npmg 025002. Nanti untuk ee selanjutnya
+2.19.54
+akan ee silakan ke prodi dan dikabari kapan waktunya untuk ee pengambilan
+2.19.59
+hadiah lah mungkin. Nah, ya kira-kira
+2.20.05
+ee baik ee terima kasih ee kepada Bapak Widi Primadepa ee atas jawaban,
+2.20.13
+pengalaman, dan wawasan yang telah diberikan tadi. Terima kasih juga kepada
+2.20.19
+teman-teman mahasiswa yang telah ee partisipasi aktif. Semoga materi dan
+2.20.25
+yang telah kita ikuti pada kegiatan ini dapat memberikan gambaran yang lebih
+2.20.32
+jelas mengenai ee bidang G serta bisa memotivasi kita untuk terus belajar,
+2.20.39
+mengembangkan kemampuan dan mempersiapkan diri menghadapi karir IT di selanjutnya dengan berakhirnya sesi
+2.20.46
+tanya ja bentar moderator saya tambah lagi sekali lagi ya saya ee sekali lagi sebelum kalian tutup itu Ibu Ari kalian manfaat
+2.20.53
+Kan dia udah sekolah jauh-jauh ke UK, kalian belajar G remote sensing ya
+2.20.59
+kalian nanggurin ya ujung-ujungnya itu-itu lagi yang bahasan kalian
+2.21.04
+penelitian di teknik informatika kan untuk apa Bengkulu itu masih butuh
+2.21.10
+sangat-sangat butuh sensing itu belajar sama.
+2.21.16
+[tertawa] Thank you, Devan. Iya,
+2.21.22
+ya. Lanjut. Lanjut. berakhirnya ee saya ucapkan sekali lagi kepada Bapak Widi Widi Primadepa atas
+2.21.32
+nama panitia dan selaku moderator saya mengucapkan terima kasih banyak kepada Ibu koordinator program studi Bu terus
+2.21.38
+Ibu Ir. Patia dan Bapak Widias selaku narasumber. Ee saya juga mohon maaf apabila terdapat
+2.21.47
+kekurangan atau kesalahan selama memandu acara pada hari ini. Semoga kegiatan ini memberikan manfaat bagi kita semua.
+2.21.54
+S sampai jumpa pada kesempatan berikutnya. Ee saya Akbar selaku moderator
+2.22.01
+mengucapkan selamat siang dan terima kasih. Wasalamualaikum warahmatullahi wabarakatuh. Waalaikumsalam.
+2.22.06
+Waalaikumsalam warahmatullahi wabarakatuh. Makasih banyak ya, Def.
+2.22.11
+Terima kasih. Iya.

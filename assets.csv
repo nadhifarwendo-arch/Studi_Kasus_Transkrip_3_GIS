@@ -1,0 +1,6 @@
+asset_id,name,category,status,latitude,longitude
+A001,Lampu Jalan 01,Lampu Jalan,Aktif,-3.8001,102.2650
+A002,Jalan Lingkungan 02,Jalan,Aktif,-3.8010,102.2670
+A003,Drainase 03,Drainase,Perlu Pemeriksaan,-3.8025,102.2630
+A004,Lampu Jalan 04,Lampu Jalan,Perlu Pemeriksaan,-3.7990,102.2690
+A005,Taman Kota 05,Ruang Terbuka,Aktif,-3.8030,102.2680
